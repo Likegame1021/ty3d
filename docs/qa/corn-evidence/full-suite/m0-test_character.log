@@ -1,0 +1,22 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Character animation mapping: { "idle": "idle", "walk": "walk", "run": "run", "attack_branch": "attack_branch" }
+Character context animation mapping: { "hurt": "hurt", "pick_up": "pick_up", "interact": "interact", "push": "push", "vault": "vault" }
+PASS: actual boy GLB loaded
+PASS: all four actual animation clips discovered
+PASS: branch attached to actual RightHand bone
+PASS: branch grip offset is 0.045 metre under actual skeleton scale
+PASS: branch follows measured hand local Y axis
+PASS: branch stays 0.7 metre despite skeleton scale
+PASS: attack state preserves full actual clip duration
+PASS: actual back swing cannot cause early hit
+PASS: side swing before measured forward contact cannot hit
+PASS: measured forward strike at 0.60 seconds can hit
+PASS: actual strike still counts each target only once
+PASS: measured side recovery at 0.67 seconds cannot hit
+PASS: actual attack remains playing past old 0.48 second cutoff
+PASS: full recovery completes then idle resumes
+PASS: actual walk clip selected by movement input
+PASS: actual run clip selected by Shift input
+PASS: movement release returns actual character to idle
+Actual character integration: 0 failures

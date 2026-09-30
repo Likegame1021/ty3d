@@ -1,0 +1,5 @@
+case,pixel_diff,changed_green_pixels,passed
+wind,287288,202290,true
+chicken,4394,2584,true
+creature,1209,587,true
+player,35477,23494,true

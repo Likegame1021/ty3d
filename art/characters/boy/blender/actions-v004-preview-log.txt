@@ -1,0 +1,16 @@
+00:02.062  blend            | Read blend: "G:\Game\vallage\art\characters\boy\blender\boy-rigged-v004.blend"
+00:27.656  render           | Saved: 'G:\Game\vallage\art\characters\boy\blender\pose-hurt-v004.png'
+V004_PREVIEW hurt 6.29760009765625
+00:27.953  render           | Saved: 'G:\Game\vallage\art\characters\boy\blender\pose-pick_up-v004.png'
+V004_PREVIEW pick_up 19.200000762939453
+00:28.219  render           | Saved: 'G:\Game\vallage\art\characters\boy\blender\pose-interact-v004.png'
+V004_PREVIEW interact 14.976000366210936
+00:28.453  render           | Saved: 'G:\Game\vallage\art\characters\boy\blender\pose-push-v004.png'
+V004_PREVIEW push 18.44399959564209
+00:28.719  render           | Saved: 'G:\Game\vallage\art\characters\boy\blender\pose-vault-v004.png'
+V004_PREVIEW vault 10.4399995803833
+V004_PREVIEWS_OK
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+Unable to delete file
+
+Blender quit

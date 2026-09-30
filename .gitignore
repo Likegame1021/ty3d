@@ -1,0 +1,29 @@
+# Local credentials and machine-specific configuration
+.local/
+.env
+.env.*
+!.env.example
+
+# Godot rebuildable import/cache directory
+game/.godot/
+
+# Meshy task responses contain temporary signed asset-download URLs.
+# Keep the request parameters, task IDs, production ledger and downloaded assets.
+art/**/meshy/**/*-task.json
+
+# Generated console output (retain the small, curated QA evidence logs)
+*.log
+!docs/qa/**/*.log
+
+# Blender automatic backups; editable .blend sources remain tracked
+*.blend[0-9]
+*.blend[0-9][0-9]
+
+# Editor and operating-system temporary files
+*.tmp
+*.bak
+__pycache__/
+*.py[cod]
+Thumbs.db
+Desktop.ini
+.DS_Store

@@ -1,0 +1,15 @@
+00:02.750  blend            | Read blend: "G:\Game\vallage\art\characters\boy\blender\boy-rigged-v002.blend"
+MATERIAL_FIXED Material_1 base texture links [('Image Texture.001', 'Color')]
+Info: Saved as "boy-rigged-v003.blend"
+INFO Draco is available, use library at D:\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at D:\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+22:56:31 | INFO: Starting glTF 2.0 export
+22:56:31 | INFO: Extracting primitive: char1
+22:56:31 | INFO: Primitives created: 1
+22:56:32 | INFO: Finished glTF 2.0 export in 0.9970588684082031 s
+
+GLB_MATERIAL_VERIFIED {"doubleSided": true, "extensions": {"KHR_materials_specular": {"specularFactor": 0.5}}, "name": "Material_1", "pbrMetallicRoughness": {"baseColorTexture": {"index": 0}, "metallicFactor": 0, "roughnessFactor": 0.800000011920929}}
+MATERIAL_V003_EXPORT_OK
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

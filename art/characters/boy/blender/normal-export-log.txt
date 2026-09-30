@@ -1,0 +1,13 @@
+00:02.609  blend            | Read blend: "G:\Game\vallage\art\characters\boy\blender\boy-rigged-v001.blend"
+00:06.094  blend            | Read blend: "G:\Game\vallage\art\characters\boy\blender\boy-rigged-v002.blend"
+INFO Draco is available, use library at D:\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at D:\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+22:46:49 | INFO: Starting glTF 2.0 export
+22:46:49 | INFO: Extracting primitive: char1
+22:46:49 | INFO: Primitives created: 1
+22:46:50 | INFO: Finished glTF 2.0 export in 0.9732916355133057 s
+
+NORMAL_REPAIR_EXPORT_OK bones=unchanged clips=unchanged geometry=unchanged vertices= 10087
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

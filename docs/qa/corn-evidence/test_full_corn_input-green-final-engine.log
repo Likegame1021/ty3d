@@ -1,0 +1,35 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Failed to read the root certificate store.
+   at: get_system_ca_certificates (platform/windows/os_windows.cpp:2582)
+Character animation mapping: { "idle": "idle", "walk": "walk", "run": "run", "attack_branch": "attack_branch" }
+Character context animation mapping: { "hurt": "hurt", "pick_up": "pick_up", "interact": "interact", "push": "push", "vault": "vault" }
+PASS: one held left press produces sustained rapid fire over 0.62 seconds
+PASS: held fire repeatedly damages the real boss through its hit cooldown
+PASS: releasing left stops automatic fire
+PASS: mouse ground-plane aim hits a target opposite the previous facing
+PASS: holding right charges without firing before release
+PASS: 0.60-second right hold releases one fully charged shot
+PASS: charged fan hits both real minions once and the boss for three damage once
+PASS: one charged release cannot repeat damage or emit a delayed shot
+PASS: short right hold releases an ordinary shot rather than a charged fan
+PASS: held left cannot interrupt right-button charging with rapid fire
+PASS: combined-button hold still releases only one charged shot
+PASS: switching away and back cancels held fire until a new press
+PASS: switching away and back cancels a ready charge
+PASS: pause immediately stops held fire
+PASS: keyboard resume does not restart an old held press
+PASS: pause cancels a ready charge and resume-button click cannot fire
+PASS: application focus loss cancels held fire
+PASS: application focus loss cancels a ready charge before release
+PASS: R retry cancels a held firing input
+PASS: adventure retry preserves the original corn-gun unlock requirement
+PASS: real health depletion opens the failure menu
+PASS: failure cancels charge and clicking retry cannot fire into the new run
+PASS: retry-button event returns to play without a leaked branch attack
+PASS: failure immediately cancels a held rapid-fire press
+PASS: defeating the real boss opens the victory menu
+PASS: victory immediately cancels held rapid fire
+PASS: victory cancels a ready charge and retry-button input cannot fire
+PASS: victory retry receives a real button click and returns to play
+Corn gun input: 0 failures

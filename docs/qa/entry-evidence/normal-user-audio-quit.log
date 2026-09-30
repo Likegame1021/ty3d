@@ -1,0 +1,577 @@
+WorkerThreadPool: 16 threads, 4 max low-priority.
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+TextServer: Added interface "Dummy"
+TextServer: Added interface "ICU / HarfBuzz / Graphite (Built-in)"
+Using "default" pen tablet driver...
+
+TextServer: Primary interface set to: "ICU / HarfBuzz / Graphite (Built-in)".
+CORE API HASH: 2004498165
+EDITOR API HASH: 1696660745
+SceneTreeFTI: traversal method DEFAULT
+MbedTLS: Some X509 certificates could not be parsed (1 certificates skipped).
+Loaded system CA certificates
+Loading resource: res://levels/entry.tscn remapped: res://levels/entry.tscn
+Loading resource: res://levels/entry.gd remapped: res://levels/entry.gd
+Completed load for: 'res://levels/entry.gd' remapped 'res://levels/entry.gd' at thread -1
+Completed load for: 'res://levels/entry.tscn' remapped 'res://levels/entry.tscn' at thread -1
+Loading resource: res://environment/entry_field.gd remapped: res://environment/entry_field.gd
+Completed load for: 'res://environment/entry_field.gd' remapped 'res://environment/entry_field.gd' at thread -1
+Loading resource: res://environment/soil.gdshader remapped: res://environment/soil.gdshader
+Completed load for: 'res://environment/soil.gdshader' remapped 'res://environment/soil.gdshader' at thread -1
+Loading resource: res://assets/environment/corn.glb remapped: res://assets/environment/corn.glb
+Loading resource: res://.godot/imported/corn.glb-e97fe306235112e07e86a25e4d4bac68.scn remapped: res://.godot/imported/corn.glb-e97fe306235112e07e86a25e4d4bac68.scn
+Completed load for: 'res://assets/environment/corn.glb' remapped 'res://assets/environment/corn.glb' at thread -1
+Loading resource: res://environment/corn.gdshader remapped: res://environment/corn.gdshader
+Completed load for: 'res://environment/corn.gdshader' remapped 'res://environment/corn.gdshader' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/fence.glb remapped: res://assets/environment/fence.glb
+Loading resource: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn remapped: res://.godot/imported/fence.glb-1e8b7ccfb413b097384382a3a6ad2624.scn
+Completed load for: 'res://assets/environment/fence.glb' remapped 'res://assets/environment/fence.glb' at thread -1
+Loading resource: res://assets/environment/haystack.glb remapped: res://assets/environment/haystack.glb
+Loading resource: res://.godot/imported/haystack.glb-8640d4ab20f9374ef0b529e9e93105c0.scn remapped: res://.godot/imported/haystack.glb-8640d4ab20f9374ef0b529e9e93105c0.scn
+Completed load for: 'res://assets/environment/haystack.glb' remapped 'res://assets/environment/haystack.glb' at thread -1
+Loading resource: res://assets/environment/haystack.glb remapped: res://assets/environment/haystack.glb
+Loading resource: res://.godot/imported/haystack.glb-8640d4ab20f9374ef0b529e9e93105c0.scn remapped: res://.godot/imported/haystack.glb-8640d4ab20f9374ef0b529e9e93105c0.scn
+Completed load for: 'res://assets/environment/haystack.glb' remapped 'res://assets/environment/haystack.glb' at thread -1
+Loading resource: res://assets/environment/haystack.glb remapped: res://assets/environment/haystack.glb
+Loading resource: res://.godot/imported/haystack.glb-8640d4ab20f9374ef0b529e9e93105c0.scn remapped: res://.godot/imported/haystack.glb-8640d4ab20f9374ef0b529e9e93105c0.scn
+Completed load for: 'res://assets/environment/haystack.glb' remapped 'res://assets/environment/haystack.glb' at thread -1
+Loading resource: res://assets/environment/crate.glb remapped: res://assets/environment/crate.glb
+Loading resource: res://.godot/imported/crate.glb-da97771fc458a3d5a3efce254fa83e52.scn remapped: res://.godot/imported/crate.glb-da97771fc458a3d5a3efce254fa83e52.scn
+Completed load for: 'res://assets/environment/crate.glb' remapped 'res://assets/environment/crate.glb' at thread -1
+Loading resource: res://assets/environment/crate.glb remapped: res://assets/environment/crate.glb
+Loading resource: res://.godot/imported/crate.glb-da97771fc458a3d5a3efce254fa83e52.scn remapped: res://.godot/imported/crate.glb-da97771fc458a3d5a3efce254fa83e52.scn
+Completed load for: 'res://assets/environment/crate.glb' remapped 'res://assets/environment/crate.glb' at thread -1
+Loading resource: res://assets/environment/jar.glb remapped: res://assets/environment/jar.glb
+Loading resource: res://.godot/imported/jar.glb-e7b5a715fc4bd1cb1eb579292b47bed5.scn remapped: res://.godot/imported/jar.glb-e7b5a715fc4bd1cb1eb579292b47bed5.scn
+Completed load for: 'res://assets/environment/jar.glb' remapped 'res://assets/environment/jar.glb' at thread -1
+Loading resource: res://assets/environment/jar.glb remapped: res://assets/environment/jar.glb
+Loading resource: res://.godot/imported/jar.glb-e7b5a715fc4bd1cb1eb579292b47bed5.scn remapped: res://.godot/imported/jar.glb-e7b5a715fc4bd1cb1eb579292b47bed5.scn
+Completed load for: 'res://assets/environment/jar.glb' remapped 'res://assets/environment/jar.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/rocks.glb remapped: res://assets/environment/rocks.glb
+Loading resource: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn remapped: res://.godot/imported/rocks.glb-0ec53d62e6561dd3c177b6843cf827da.scn
+Completed load for: 'res://assets/environment/rocks.glb' remapped 'res://assets/environment/rocks.glb' at thread -1
+Loading resource: res://assets/environment/tree.glb remapped: res://assets/environment/tree.glb
+Loading resource: res://.godot/imported/tree.glb-c8c0e101fe876a5d99d5791a0ed9d624.scn remapped: res://.godot/imported/tree.glb-c8c0e101fe876a5d99d5791a0ed9d624.scn
+Completed load for: 'res://assets/environment/tree.glb' remapped 'res://assets/environment/tree.glb' at thread -1
+Loading resource: res://assets/environment/tree.glb remapped: res://assets/environment/tree.glb
+Loading resource: res://.godot/imported/tree.glb-c8c0e101fe876a5d99d5791a0ed9d624.scn remapped: res://.godot/imported/tree.glb-c8c0e101fe876a5d99d5791a0ed9d624.scn
+Completed load for: 'res://assets/environment/tree.glb' remapped 'res://assets/environment/tree.glb' at thread -1
+Loading resource: res://assets/environment/tree.glb remapped: res://assets/environment/tree.glb
+Loading resource: res://.godot/imported/tree.glb-c8c0e101fe876a5d99d5791a0ed9d624.scn remapped: res://.godot/imported/tree.glb-c8c0e101fe876a5d99d5791a0ed9d624.scn
+Completed load for: 'res://assets/environment/tree.glb' remapped 'res://assets/environment/tree.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://assets/environment/grass.glb remapped: res://assets/environment/grass.glb
+Loading resource: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn remapped: res://.godot/imported/grass.glb-305e85b70bf2b18a997a18b23280c3e1.scn
+Completed load for: 'res://assets/environment/grass.glb' remapped 'res://assets/environment/grass.glb' at thread -1
+Loading resource: res://environment/entry_soil.gdshader remapped: res://environment/entry_soil.gdshader
+Completed load for: 'res://environment/entry_soil.gdshader' remapped 'res://environment/entry_soil.gdshader' at thread -1
+Loading resource: res://environment/entry_corn.gdshader remapped: res://environment/entry_corn.gdshader
+Completed load for: 'res://environment/entry_corn.gdshader' remapped 'res://environment/entry_corn.gdshader' at thread -1
+Loading resource: res://assets/characters/boy/boy.glb remapped: res://assets/characters/boy/boy.glb
+Loading resource: res://.godot/imported/boy.glb-09134fcdbfdd182e222778ee7c567bd3.scn remapped: res://.godot/imported/boy.glb-09134fcdbfdd182e222778ee7c567bd3.scn
+Loading resource: res://assets/characters/boy/boy_texture_0.png remapped: res://assets/characters/boy/boy_texture_0.png
+Loading resource: res://.godot/imported/boy_texture_0.png-3f21700bfa462a86fb346a0e1027eeeb.ctex remapped: res://.godot/imported/boy_texture_0.png-3f21700bfa462a86fb346a0e1027eeeb.ctex
+Completed load for: 'res://assets/characters/boy/boy_texture_0.png' remapped 'res://assets/characters/boy/boy_texture_0.png' at thread -1
+Completed load for: 'res://assets/characters/boy/boy.glb' remapped 'res://assets/characters/boy/boy.glb' at thread -1
+Character animation mapping: { "idle": "idle", "walk": "walk", "run": "run", "attack_branch": "attack_branch" }
+XR: Clearing primary interface
+XR: Removed interface "Native mobile"
+XR: Removed interface "OpenXR"
+Leaked instance: AudioStreamWAV:9223372114097080336 - Reference count: 1
+Leaked instance: AudioStreamPlaybackWAV:9223372119298017555 - Reference count: 1
+Hint: Leaked instances typically happen when nodes are removed from the scene tree (with `remove_child()`) but not freed (with `free()` or `queue_free()`).
+Orphan StringName: Master (static: 0, total: 2)
+StringName: 1 unclaimed string names at exit.
+WARNING: 2 ObjectDB instances were leaked at exit (run with `--verbose` for details).
+   at: cleanup (core/object/object.cpp:2536)

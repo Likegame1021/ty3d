@@ -1,0 +1,20 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Character animation mapping: { "idle": "idle", "walk": "walk", "run": "run", "attack_branch": "attack_branch" }
+PASS: E key rejects far interaction
+PASS: E key opens target instruction within range
+PASS: Space key drives one complete attack with one hit
+PASS: Esc key pauses and shows overlay
+PASS: paused key input cannot move attack or reset
+PASS: pause menu exposes one resume button
+PASS: pointer click resumes through GUI button
+PASS: resume button click does not leak into gameplay attack
+PASS: R key clears hit counter
+PASS: R key returns player to spawn
+PASS: left pointer click outside GUI performs one real attack
+PASS: Tab key switches to night
+PASS: second Tab key restores day
+PASS: Esc can pause again after clicking resume
+PASS: second Esc resumes without GUI click
+PASS: physical W D Shift events produce running movement
+Input pipeline: 0 failures

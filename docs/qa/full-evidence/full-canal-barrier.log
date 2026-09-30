@@ -1,0 +1,10 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Character animation mapping: { "idle": "idle", "walk": "walk", "run": "run", "attack_branch": "attack_branch" }
+Character context animation mapping: { "hurt": "hurt", "pick_up": "pick_up", "interact": "interact", "push": "push", "vault": "vault" }
+PASS: closed canal blocks physical west-side bypass
+PASS: closed canal blocks physical east-side bypass
+PASS: closed sluice blocks bridge crossing
+OPEN_CANAL_CROSSING final_z=14.2999000549316
+PASS: opened sluice permits physical bridge crossing
+Full canal physical barriers: 0 failures

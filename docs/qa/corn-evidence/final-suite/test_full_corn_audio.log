@@ -1,0 +1,14 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+CORN_AUDIO_DRIVER=WASAPI
+PASS: eight simultaneous impacts preserve the scatter muzzle sample and active output playback
+PASS: crowd impacts do not move the muzzle sound to an impact point
+PASS: repeated impacts preserve the preceding rapid-fire sample tail
+PASS: saturated shots, impacts and charge remain within nine total voices
+PASS: an active audio output backend starts the charge loop
+PASS: pausing freezes muzzle, impact and charge streams together
+PASS: resuming releases every audio pool
+PASS: retry cleanup removes all effect and audio nodes synchronously
+PASS: audio can re-arm after cleanup without stale pool entries
+PASS: freeing the weapon while paused releases every playing voice
+Full corn audio: 0 failures

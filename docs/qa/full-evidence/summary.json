@@ -1,0 +1,164 @@
+[
+  {
+    "case": "import",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "full-smoke",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "test_full_character_actions",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "test_full_combat",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "test_full_hud",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "test_full_input",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "test_full_playable",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "test_full_player_bounds",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "test_full_progress",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "test_full_route",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "test_full_weapon",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "full_field_check",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "full-canal-barrier",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "full-input-playthrough",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "m1-test_entry_enemy",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "m1-test_entry_input",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "m1-test_entry_progress",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "m1-test_entry_route",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "m1-test_entry",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "m0-test_attack",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "m0-test_character",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "m0-test_game",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "m0-test_input",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "full-environment-capture",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "render_full",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "full-gpu-weather",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "verified-files-unchanged",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  }
+]

@@ -1,0 +1,13 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Character animation mapping: { "idle": "idle", "walk": "walk", "run": "run", "attack_branch": "attack_branch" }
+Character context animation mapping: { "hurt": "hurt", "pick_up": "pick_up", "interact": "interact", "push": "push", "vault": "vault" }
+PASS: normal shot does not hit a target far outside the aiming line
+PASS: normal shot hits the target on the aiming line
+PASS: normal shot cannot damage an enemy behind a solid wall
+PASS: scatter cannot damage an enemy behind a solid wall
+Character animation mapping: { "idle": "idle", "walk": "walk", "run": "run", "attack_branch": "attack_branch" }
+Character context animation mapping: { "hurt": "hurt", "pick_up": "pick_up", "interact": "interact", "push": "push", "vault": "vault" }
+PASS: aiming at the visible wooden bullseye hits from a close diagonal
+PASS: first right click aims at its pointer without requiring prior mouse movement
+Corn aiming: 0 failures

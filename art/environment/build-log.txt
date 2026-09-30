@@ -1,0 +1,74 @@
+G:\Game\vallage\tools\build_environment.py:7: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(name); m.diffuse_color=(*col,1); m.use_nodes=True
+00:02.938  reports          | WARNING Path 'D:\5.2\datafiles\assets\brushes\essentials_brushes-gp_draw.blend' cannot be made relative for Material 'Dots Stroke'
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:02.938  reports          | WARNING Path 'D:\5.2\datafiles\assets\brushes\essentials_brushes-gp_draw.blend' cannot be made relative for Material 'Material'
+Info: Saved as "corn.blend"
+INFO Draco is available, use library at D:\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at D:\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+22:01:24 | INFO: Starting glTF 2.0 export
+22:01:24 | INFO: Extracting primitive: Cone
+22:01:25 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+22:01:25 | INFO: Primitives created: 3
+22:01:25 | INFO: Finished glTF 2.0 export in 0.09863042831420898 s
+
+ENV_ASSET corn 466 425
+Info: Saved as "fence.blend"
+22:01:25 | INFO: Starting glTF 2.0 export
+22:01:25 | INFO: Extracting primitive: Cone.013
+22:01:25 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+22:01:25 | INFO: Primitives created: 2
+22:01:25 | INFO: Finished glTF 2.0 export in 0.009555578231811523 s
+
+ENV_ASSET fence 88 80
+Info: Saved as "rocks.blend"
+22:01:25 | INFO: Starting glTF 2.0 export
+22:01:25 | INFO: Extracting primitive: Icosphere.003
+22:01:25 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+22:01:25 | INFO: Primitives created: 1
+22:01:25 | INFO: Finished glTF 2.0 export in 0.005588531494140625 s
+
+ENV_ASSET rocks 36 60
+Info: Saved as "crate.blend"
+22:01:25 | INFO: Starting glTF 2.0 export
+22:01:25 | INFO: Extracting primitive: Cube.001
+22:01:25 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+22:01:25 | INFO: Primitives created: 2
+22:01:25 | INFO: Finished glTF 2.0 export in 0.01329946517944336 s
+
+ENV_ASSET crate 648 702
+Info: Saved as "haystack.blend"
+22:01:25 | INFO: Starting glTF 2.0 export
+22:01:25 | INFO: Extracting primitive: Icosphere.006
+22:01:25 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+22:01:25 | INFO: Primitives created: 3
+22:01:25 | INFO: Finished glTF 2.0 export in 0.017027616500854492 s
+
+ENV_ASSET haystack 352 306
+Warning: No mesh data to join
+Info: Saved as "jar.blend"
+22:01:25 | INFO: Starting glTF 2.0 export
+22:01:25 | INFO: Extracting primitive: jar
+22:01:25 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+22:01:25 | INFO: Primitives created: 1
+22:01:25 | INFO: Finished glTF 2.0 export in 0.008280277252197266 s
+
+ENV_ASSET jar 112 96
+Info: Saved as "grass.blend"
+22:01:25 | INFO: Starting glTF 2.0 export
+22:01:25 | INFO: Extracting primitive: Cone.054
+22:01:25 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+22:01:25 | INFO: Primitives created: 1
+22:01:25 | INFO: Finished glTF 2.0 export in 0.00815439224243164 s
+
+ENV_ASSET grass 72 54
+Info: Saved as "tree.blend"
+22:01:25 | INFO: Starting glTF 2.0 export
+22:01:25 | INFO: Extracting primitive: Cone.063
+22:01:25 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+22:01:25 | INFO: Primitives created: 3
+22:01:25 | INFO: Finished glTF 2.0 export in 0.015039920806884766 s
+
+ENV_ASSET tree 380 514
+
+Blender quit

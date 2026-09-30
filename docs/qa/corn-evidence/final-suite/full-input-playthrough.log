@@ -1,0 +1,41 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Character animation mapping: { "idle": "idle", "walk": "walk", "run": "run", "attack_branch": "attack_branch" }
+Character context animation mapping: { "hurt": "hurt", "pick_up": "pick_up", "interact": "interact", "push": "push", "vault": "vault" }
+PASS: input route discovers harmless chicken
+PASS: E collects the tin once
+PASS: E clears the water mouth
+PASS: E opens the sluice
+PASS: input route reaches dense corn
+PASS: F throws a real stone input in dense corn
+INPUT_FENCE_APPROACH position=(-5.019534, 0.000838, 4.294027) distance=1.29417479038239
+PASS: E vaults the low fence
+PASS: E takes the board
+PASS: E moves the cart using the board
+PASS: E takes the old launcher
+INPUT_BOSS_APPROACH position=(0.212221, 0.000841, -30.16955) launcher=true gate_disabled=true boss_active=true
+PASS: input route physically enters the active boss arena
+INPUT_BRANCH_ATTEMPT pos=(0.072263, 0.000841, -32.69572) facing=(-0.055323, 0.0, -0.998468) boss=(0.0, 0.0, -34.0) mode=recover
+INPUT_BRANCH_RESULT hit=true hp=11 attack_elapsed=0.76666666666667 remaining=0.77499996026357
+PASS: space branch strike damages boss in recover window
+INPUT_BRANCH_ATTEMPT pos=(1.375597, 0.00084, -32.69572) facing=(-1.0, 0.0, 0.0) boss=(0.072263, 0.0, -32.69572) mode=recover
+INPUT_BRANCH_RESULT hit=true hp=10 attack_elapsed=0.76666666666667 remaining=0.77499996026357
+PASS: space branch strike damages boss in recover window
+INPUT_BRANCH_ATTEMPT pos=(1.375597, 0.000841, -32.69572) facing=(-1.0, 0.0, 0.0) boss=(0.072263, 0.0, -32.69572) mode=recover
+INPUT_BRANCH_RESULT hit=true hp=9 attack_elapsed=0.76666666666667 remaining=0.77499996026357
+PASS: space branch strike damages boss in recover window
+INPUT_BRANCH_ATTEMPT pos=(1.34033, 0.000925, -32.8755) facing=(-0.707107, 0.0, 0.707107) boss=(0.072263, 0.0, -32.69572) mode=recover
+INPUT_BRANCH_RESULT hit=true hp=8 attack_elapsed=0.76666666666667 remaining=0.77499996026357
+PASS: space branch strike damages boss in recover window
+INPUT_BRANCH_ATTEMPT pos=(2.643662, 0.000841, -32.8755) facing=(-1.0, 0.0, 0.0) boss=(1.34033, 0.0, -32.8755) mode=recover
+INPUT_BRANCH_RESULT hit=true hp=7 attack_elapsed=0.76666666666667 remaining=0.77499996026357
+PASS: space branch strike damages boss in recover window
+INPUT_BRANCH_ATTEMPT pos=(2.643662, 0.00084, -32.8755) facing=(-1.0, 0.0, 0.0) boss=(1.34033, 0.0, -32.8755) mode=recover
+INPUT_BRANCH_RESULT hit=true hp=6 attack_elapsed=0.76666666666667 remaining=0.77499996026357
+PASS: space branch strike damages boss in recover window
+PASS: E combines the launcher and spilled corn
+PASS: held real right mouse charges and fires the scatter shot
+PASS: space fires a real mid-range corn shot
+PASS: space fires a real mid-range corn shot
+PASS: real-input boss route reaches victory
+FULL_INPUT_EVIDENCE: { "stages": ["chicken", "dense_corn", "farm_yard", "boss_arena", "corn_gun_combined", "boss_defeated"], "route_ok": true, "outcome": "won", "elapsed_seconds": 55.593, "hearts": 1, "boss_hp": 0, "corn_gun": true, "failures": 0 }

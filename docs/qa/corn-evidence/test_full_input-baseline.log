@@ -1,0 +1,25 @@
+ERROR: Failed to open log file for writing: user://logs/godot.log
+   at: rotate_file (core/io/logger.cpp:169)
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Failed to read the root certificate store.
+   at: get_system_ca_certificates (platform/windows/os_windows.cpp:2582)
+Character animation mapping: { "idle": "idle", "walk": "walk", "run": "run", "attack_branch": "attack_branch" }
+Character context animation mapping: { "hurt": "hurt", "pick_up": "pick_up", "interact": "interact", "push": "push", "vault": "vault" }
+PASS: F6 changes sunny to rain without changing day
+PASS: Tab switches night independently of weather
+PASS: Esc opens pause menu
+PASS: paused weather key E and attack do not leak
+PASS: pause menu selects snow while retaining night
+PASS: resume pointer click cannot swing branch
+PASS: real E input picks tin after chicken clue
+PASS: Q cannot equip unfinished launcher
+PASS: real Q input equips visible corn gun
+PASS: holding right click reaches readable charge threshold
+PASS: right release fires one charged shot for three damage
+PASS: paused right click cannot start stale charge
+PASS: R from pause resets weather night and weapon
+PASS: input path reaches failure menu
+PASS: failure retry button receives actual pointer click
+PASS: failure retry click starts clean without attack
+Full input pipeline: 0 failures

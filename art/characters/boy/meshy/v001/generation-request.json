@@ -1,0 +1,26 @@
+{
+  "image_files": [
+    "G:\\Game\\vallage\\art\\characters\\boy\\references\\v001\\front.png",
+    "G:\\Game\\vallage\\art\\characters\\boy\\references\\v001\\left.png",
+    "G:\\Game\\vallage\\art\\characters\\boy\\references\\v001\\back.png",
+    "G:\\Game\\vallage\\art\\characters\\boy\\references\\v001\\right.png"
+  ],
+  "parameters": {
+    "ai_model": "meshy-7.1",
+    "geometry_resolution": "standard",
+    "should_texture": true,
+    "enable_pbr": true,
+    "texture_resolution": "2k",
+    "should_remesh": true,
+    "topology": "triangle",
+    "target_polycount": 20000,
+    "save_pre_remeshed_model": true,
+    "pose_mode": "t-pose",
+    "image_enhancement": false,
+    "remove_lighting": true,
+    "target_formats": [
+      "glb"
+    ]
+  },
+  "submitted_at": "2026-09-27T22:08:51.0204195+08:00"
+}

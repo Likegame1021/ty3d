@@ -1,0 +1,9 @@
+00:02.640  blend            | Read blend: "G:\Game\vallage\art\characters\boy\blender\boy-rigged-v001.blend"
+00:39.515  render           | Saved: 'G:\Game\vallage\art\characters\boy\blender\normals-before.png'
+00:40.515  render           | Saved: 'G:\Game\vallage\art\characters\boy\blender\normals-after.png'
+Info: Saved as "boy-rigged-v002.blend"
+NORMAL_REPAIR_CANDIDATE_OK 10087 20600 custom False
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+Unable to delete file
+
+Blender quit

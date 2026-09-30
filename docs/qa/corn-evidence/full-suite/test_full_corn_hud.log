@@ -1,0 +1,20 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS: charge reaches ready at 0.55 seconds outside the boss fight
+PASS: ready charge clearly prompts release
+PASS: charge does not announce readiness early
+PASS: HUD exposes aim and hit feedback to gameplay
+PASS: equipped corn gun has its own visible weapon card
+PASS: aim feedback follows the supplied screen position
+PASS: weapon UI leaves pointer input available to gameplay
+PASS: a confirmed hit starts brief reticle feedback
+PASS: hit feedback clears rather than staying on the aim point
+PASS: pause menu suppresses aim even if gameplay sends another update
+PASS: aim can return after the menu closes
+PASS: weapon card stays inside a 960 by 600 viewport
+PASS: weapon card does not overlap the bottom interaction panel
+PASS: weapon card does not overlap transient messages
+PASS: switching away from the gun removes all corn feedback
+PASS: lab mode provides a shooting objective
+PASS: leaving lab mode restores normal adventure objectives
+Full corn HUD: 0 failures

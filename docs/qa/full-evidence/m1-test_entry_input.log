@@ -1,0 +1,23 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Character animation mapping: { "idle": "idle", "walk": "walk", "run": "run", "attack_branch": "attack_branch" }
+Character context animation mapping: { "hurt": "hurt", "pick_up": "pick_up", "interact": "interact", "push": "push", "vault": "vault" }
+PASS: E input cannot pick box through pause overlay
+PASS: real E input collects marble box
+PASS: repeated E input never duplicates item
+PASS: Esc opens M1 pause menu
+PASS: paused attack interaction enemy and timer stay frozen
+PASS: resume pointer click continues without leaking attack
+PASS: R from pause retries complete quest
+PASS: paused retry removes creature stun and restores health
+PASS: paused retry clears attack and restores entry spawn
+PASS: pause retry button resets without click-through attack
+PASS: E at exit completes non-combat route
+PASS: Esc cannot unfreeze danger after victory
+PASS: victory retry button starts clean without attack
+PASS: failure overlay reached for input retry
+PASS: R from failure restarts all progress
+PASS: failure retry button starts clean without click-through attack
+PASS: M1 Tab retains night preview
+PASS: M1 Tab restores day
+Entry input pipeline: 0 failures

@@ -1,0 +1,93 @@
+{
+  "name": "tree",
+  "source": "G:\\Game\\vallage\\art\\environment\\meshy\\locust-tree\\v001\\model.glb",
+  "original_dimensions_blender_xyz": [
+    1.965,
+    1.3217,
+    2.0621
+  ],
+  "final_dimensions_blender_xyz": [
+    4.8,
+    3.6,
+    5.0
+  ],
+  "final_min_z": 0.0,
+  "scale_xyz": [
+    2.442743,
+    2.723745,
+    2.424677
+  ],
+  "mesh_objects": 2,
+  "triangles": 5191,
+  "materials": [
+    "Material_0",
+    "CanopyOlive_00",
+    "CanopyOlive_01",
+    "CanopyOlive_02",
+    "CanopyOlive_03",
+    "CanopyOlive_04"
+  ],
+  "images": [
+    {
+      "name": "CanopyLeafTexture_00",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "CanopyLeafTexture_01",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "CanopyLeafTexture_02",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "CanopyLeafTexture_03",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "CanopyLeafTexture_04",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "Image_0",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "Image_1",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "normal",
+      "size": [
+        2048,
+        2048
+      ]
+    }
+  ],
+  "roof_objects": [],
+  "roof_selected_faces": 0,
+  "recovered_canopy_polygons": 1728,
+  "output_glb": "G:\\Game\\vallage\\game\\assets\\environment\\meshy\\tree.glb",
+  "output_blend": "G:\\Game\\vallage\\art\\environment\\meshy\\tree-v001.blend"
+}

@@ -1,0 +1,14 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Character animation mapping: { "idle": "idle", "walk": "walk", "run": "run", "attack_branch": "attack_branch" }
+PASS: walk from spawn to side path
+PASS: walk to harmless chicken
+PASS: walking route reveals chicken without teleport
+PASS: walk cleared side path to box
+PASS: walking route picks box through E input
+PASS: walk back toward central road
+PASS: take bypass to the east of creature
+PASS: bypass passes creature patrol zone
+PASS: walk back to northern exit
+PASS: real movement route completes without combat or damage
+Entry physical route: 0 failures; 13.78 seconds of direct automated walking

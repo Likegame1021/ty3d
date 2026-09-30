@@ -1,0 +1,24 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 591.86 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 3080 Ti
+
+CAPTURE full-env-entrance
+CAPTURE full-env-canal
+CAPTURE full-env-canal-cleared
+CAPTURE full-env-canal-open
+CAPTURE full-env-dense
+CAPTURE full-env-farm
+CAPTURE full-env-farm-inside
+CAPTURE full-env-farm-rain
+CAPTURE full-env-farm-snow
+CAPTURE full-env-boss
+CAPTURE full-env-entrance-night
+CAPTURE full-env-canal-night
+CAPTURE full-env-farm-night
+CAPTURE full-env-boss-night
+CAPTURE full-env-sunny-day
+CAPTURE full-env-sunny-night
+CAPTURE full-env-rain-day
+CAPTURE full-env-rain-night
+CAPTURE full-env-snow-day
+CAPTURE full-env-snow-night
+FULL_ENV_GPU_CAPTURE_OK

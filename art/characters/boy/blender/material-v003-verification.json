@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularFactor": 0.5
+        }
+      },
+      "name": "Material_1",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.800000011920929
+      }
+    }
+  ],
+  "animations": [
+    "walk",
+    "idle",
+    "attack_branch",
+    "run"
+  ],
+  "bones_and_animation_keys_unchanged": true,
+  "base_color_texture_preserved": true
+}

@@ -1,0 +1,21 @@
+{
+  "asset": "tool-shed",
+  "image_file": "G:\\Game\\vallage\\art\\environment\\references\\style-v002\\tool-shed.png",
+  "parameters": {
+    "ai_model": "meshy-7.1",
+    "model_type": "standard",
+    "geometry_resolution": "standard",
+    "should_texture": true,
+    "enable_pbr": true,
+    "texture_resolution": "2k",
+    "should_remesh": true,
+    "topology": "triangle",
+    "target_polycount": 12000,
+    "save_pre_remeshed_model": false,
+    "image_enhancement": false,
+    "target_formats": [
+      "glb"
+    ]
+  },
+  "submitted_at": "2026-09-28T07:40:58.9058512+08:00"
+}

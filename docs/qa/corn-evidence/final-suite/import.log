@@ -1,0 +1,166 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Started 项目初始化 (5 steps)[39m[0m
+[   0% ] [90m[1mfirst_scan_filesystem[22m | 正在扫描文件结构……[39m[0m
+[  16% ] [90m[1mfirst_scan_filesystem[22m | 正在加载全局类名……[39m[0m
+[  33% ] [90m[1mfirst_scan_filesystem[22m | 正在校验 GDExtension……[39m[0m
+[  50% ] [90m[1mfirst_scan_filesystem[22m | 正在创建自动加载脚本……[39m[0m
+[  66% ] [90m[1mfirst_scan_filesystem[22m | 正在初始化插件……[39m[0m
+[  83% ] [90m[1mfirst_scan_filesystem[22m | 正在启动文件扫描……[39m[0m
+[92m[ DONE ][39m [1mfirst_scan_filesystem[22m
+[0m
+[   0% ] [90m[1m_update_scan_actions[22m | Started 正在扫描动作…… (46 steps)[39m[0m
+[   0% ] [90m[1m_update_scan_actions[22m | corn-960.png[39m[0m
+[   2% ] [90m[1m_update_scan_actions[22m | corn-charge.png[39m[0m
+[   4% ] [90m[1m_update_scan_actions[22m | corn-combat.png[39m[0m
+[   6% ] [90m[1m_update_scan_actions[22m | corn-grip.png[39m[0m
+[   8% ] [90m[1m_update_scan_actions[22m | corn-hit.png[39m[0m
+[  10% ] [90m[1m_update_scan_actions[22m | corn-practice.png[39m[0m
+[  12% ] [90m[1m_update_scan_actions[22m | corn-rain-night.png[39m[0m
+[  14% ] [90m[1m_update_scan_actions[22m | corn-scatter.png[39m[0m
+[  17% ] [90m[1m_update_scan_actions[22m | full-boss-approach.png[39m[0m
+[  19% ] [90m[1m_update_scan_actions[22m | full-boss-burrow.png[39m[0m
+[  21% ] [90m[1m_update_scan_actions[22m | full-canal-closed.png[39m[0m
+[  23% ] [90m[1m_update_scan_actions[22m | full-canal-open.png[39m[0m
+[  25% ] [90m[1m_update_scan_actions[22m | full-cart-moved.png[39m[0m
+[  27% ] [90m[1m_update_scan_actions[22m | full-corn-gun.png[39m[0m
+[  29% ] [90m[1m_update_scan_actions[22m | full-corn-scatter.png[39m[0m
+[  31% ] [90m[1m_update_scan_actions[22m | full-corn-spilled.png[39m[0m
+[  34% ] [90m[1m_update_scan_actions[22m | full-dense-pursuit.png[39m[0m
+[  36% ] [90m[1m_update_scan_actions[22m | full-entrance.png[39m[0m
+[  38% ] [90m[1m_update_scan_actions[22m | full-env-boss-night.png[39m[0m
+[  40% ] [90m[1m_update_scan_actions[22m | full-env-boss.png[39m[0m
+[  42% ] [90m[1m_update_scan_actions[22m | full-env-canal-cleared.png[39m[0m
+[  44% ] [90m[1m_update_scan_actions[22m | full-env-canal-night.png[39m[0m
+[  46% ] [90m[1m_update_scan_actions[22m | full-env-canal-open.png[39m[0m
+[  48% ] [90m[1m_update_scan_actions[22m | full-env-canal.png[39m[0m
+[  51% ] [90m[1m_update_scan_actions[22m | full-env-dense.png[39m[0m
+[  53% ] [90m[1m_update_scan_actions[22m | full-env-entrance-night.png[39m[0m
+[  55% ] [90m[1m_update_scan_actions[22m | full-env-entrance.png[39m[0m
+[  57% ] [90m[1m_update_scan_actions[22m | full-env-farm-inside.png[39m[0m
+[  59% ] [90m[1m_update_scan_actions[22m | full-env-farm-night.png[39m[0m
+[  61% ] [90m[1m_update_scan_actions[22m | full-env-farm-rain.png[39m[0m
+[  63% ] [90m[1m_update_scan_actions[22m | full-env-farm-snow.png[39m[0m
+[  65% ] [90m[1m_update_scan_actions[22m | full-env-farm.png[39m[0m
+[  68% ] [90m[1m_update_scan_actions[22m | full-env-rain-day.png[39m[0m
+[  70% ] [90m[1m_update_scan_actions[22m | full-env-rain-night.png[39m[0m
+[  72% ] [90m[1m_update_scan_actions[22m | full-env-snow-day.png[39m[0m
+[  74% ] [90m[1m_update_scan_actions[22m | full-env-snow-night.png[39m[0m
+[  76% ] [90m[1m_update_scan_actions[22m | full-env-sunny-day.png[39m[0m
+[  78% ] [90m[1m_update_scan_actions[22m | full-env-sunny-night.png[39m[0m
+[  80% ] [90m[1m_update_scan_actions[22m | full-failure-960.png[39m[0m
+[  82% ] [90m[1m_update_scan_actions[22m | full-victory-960.png[39m[0m
+[  85% ] [90m[1m_update_scan_actions[22m | full-weather-rain-day.png[39m[0m
+[  87% ] [90m[1m_update_scan_actions[22m | full-weather-rain-night.png[39m[0m
+[  89% ] [90m[1m_update_scan_actions[22m | full-weather-snow-day.png[39m[0m
+[  91% ] [90m[1m_update_scan_actions[22m | full-weather-snow-night.png[39m[0m
+[  93% ] [90m[1m_update_scan_actions[22m | full-weather-sunny-day.png[39m[0m
+[  95% ] [90m[1m_update_scan_actions[22m | full-weather-sunny-night.png[39m[0m
+[92m[ DONE ][39m [1m_update_scan_actions[22m
+[0m
+[   0% ] [90m[1mreimport[22m | Started 正在导入或重新导入资产 (46 steps)[39m[0m
+[   0% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[   2% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[   4% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[   6% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[   8% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  10% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  12% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  14% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  17% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  19% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  21% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  23% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  25% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  27% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  29% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  31% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  34% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  36% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  38% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  40% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  42% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  44% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  46% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  48% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  51% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  53% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  55% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  57% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  59% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  61% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  63% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  65% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  68% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  70% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  72% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  74% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  76% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  78% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  80% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  82% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  85% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  87% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  89% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  91% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  93% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  95% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[   0% ] [90m[1mreimport[22m | 正在执行重新导入的前置操作……[39m[0m
+[   0% ] [90m[1mreimport[22m | full-env-canal.png[39m[0m
+[   2% ] [90m[1mreimport[22m | full-env-dense.png[39m[0m
+[   4% ] [90m[1mreimport[22m | full-env-entrance-night.png[39m[0m
+[   6% ] [90m[1mreimport[22m | full-env-entrance.png[39m[0m
+[   8% ] [90m[1mreimport[22m | full-env-farm-inside.png[39m[0m
+[  10% ] [90m[1mreimport[22m | full-env-farm-night.png[39m[0m
+[  12% ] [90m[1mreimport[22m | full-env-farm-rain.png[39m[0m
+[  14% ] [90m[1mreimport[22m | full-env-farm-snow.png[39m[0m
+[  17% ] [90m[1mreimport[22m | full-env-farm.png[39m[0m
+[  19% ] [90m[1mreimport[22m | full-env-rain-day.png[39m[0m
+[  21% ] [90m[1mreimport[22m | full-env-rain-night.png[39m[0m
+[  23% ] [90m[1mreimport[22m | full-env-snow-day.png[39m[0m
+[  25% ] [90m[1mreimport[22m | full-env-snow-night.png[39m[0m
+[  27% ] [90m[1mreimport[22m | full-env-sunny-day.png[39m[0m
+[  29% ] [90m[1mreimport[22m | full-env-sunny-night.png[39m[0m
+[  31% ] [90m[1mreimport[22m | full-failure-960.png[39m[0m
+[  34% ] [90m[1mreimport[22m | full-victory-960.png[39m[0m
+[  36% ] [90m[1mreimport[22m | full-weather-rain-day.png[39m[0m
+[  38% ] [90m[1mreimport[22m | full-weather-rain-night.png[39m[0m
+[  40% ] [90m[1mreimport[22m | full-weather-snow-day.png[39m[0m
+[  42% ] [90m[1mreimport[22m | full-weather-snow-night.png[39m[0m
+[  44% ] [90m[1mreimport[22m | full-weather-sunny-day.png[39m[0m
+[  46% ] [90m[1mreimport[22m | full-weather-sunny-night.png[39m[0m
+[  48% ] [90m[1mreimport[22m | corn-960.png[39m[0m
+[  51% ] [90m[1mreimport[22m | corn-charge.png[39m[0m
+[  53% ] [90m[1mreimport[22m | corn-combat.png[39m[0m
+[  55% ] [90m[1mreimport[22m | corn-grip.png[39m[0m
+[  57% ] [90m[1mreimport[22m | corn-hit.png[39m[0m
+[  59% ] [90m[1mreimport[22m | corn-practice.png[39m[0m
+[  61% ] [90m[1mreimport[22m | corn-rain-night.png[39m[0m
+[  63% ] [90m[1mreimport[22m | corn-scatter.png[39m[0m
+[  65% ] [90m[1mreimport[22m | full-boss-approach.png[39m[0m
+[  68% ] [90m[1mreimport[22m | full-boss-burrow.png[39m[0m
+[  70% ] [90m[1mreimport[22m | full-canal-closed.png[39m[0m
+[  72% ] [90m[1mreimport[22m | full-canal-open.png[39m[0m
+[  74% ] [90m[1mreimport[22m | full-cart-moved.png[39m[0m
+[  76% ] [90m[1mreimport[22m | full-corn-gun.png[39m[0m
+[  78% ] [90m[1mreimport[22m | full-corn-scatter.png[39m[0m
+[  80% ] [90m[1mreimport[22m | full-corn-spilled.png[39m[0m
+[  82% ] [90m[1mreimport[22m | full-dense-pursuit.png[39m[0m
+[  85% ] [90m[1mreimport[22m | full-entrance.png[39m[0m
+[  87% ] [90m[1mreimport[22m | full-env-boss-night.png[39m[0m
+[  89% ] [90m[1mreimport[22m | full-env-boss.png[39m[0m
+[  91% ] [90m[1mreimport[22m | full-env-canal-cleared.png[39m[0m
+[  93% ] [90m[1mreimport[22m | full-env-canal-night.png[39m[0m
+[  95% ] [90m[1mreimport[22m | full-env-canal-open.png[39m[0m
+[  97% ] [90m[1mreimport[22m | 正在结束资产导入……[39m[0m
+[92m[ DONE ][39m [1mreimport[22m
+[0m
+[   0% ] [90m[1mreimport[22m | Started 正在导入或重新导入资产 (46 steps)[39m[0m
+[   0% ] [90m[1mreimport[22m | 正在执行重新导入的后置操作……[39m[0m
+[92m[ DONE ][39m [1mreimport[22m
+[0m
+[   0% ] [90m[1mloading_editor_layout[22m | Started 正在加载编辑器 (5 steps)[39m[0m
+[   0% ] [90m[1mloading_editor_layout[22m | 正在加载编辑器布局……[39m[0m
+[  16% ] [90m[1mloading_editor_layout[22m | 正在加载停靠面板……[39m[0m
+[92m[ DONE ][39m [1mloading_editor_layout[22m
+[0m

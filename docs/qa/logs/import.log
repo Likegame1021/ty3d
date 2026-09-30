@@ -1,0 +1,72 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Started 项目初始化 (5 steps)[39m[0m
+[   0% ] [90m[1mfirst_scan_filesystem[22m | 正在扫描文件结构……[39m[0m
+[  16% ] [90m[1mfirst_scan_filesystem[22m | 正在加载全局类名……[39m[0m
+[  33% ] [90m[1mfirst_scan_filesystem[22m | 正在校验 GDExtension……[39m[0m
+[  50% ] [90m[1mfirst_scan_filesystem[22m | 正在创建自动加载脚本……[39m[0m
+[  66% ] [90m[1mfirst_scan_filesystem[22m | 正在初始化插件……[39m[0m
+[  83% ] [90m[1mfirst_scan_filesystem[22m | 正在启动文件扫描……[39m[0m
+[92m[ DONE ][39m [1mfirst_scan_filesystem[22m
+[0m
+[   0% ] [90m[1m_update_scan_actions[22m | Started 正在扫描动作…… (10 steps)[39m[0m
+[   0% ] [90m[1m_update_scan_actions[22m | boy.glb[39m[0m
+[   9% ] [90m[1m_update_scan_actions[22m | character-attack_branch.png[39m[0m
+[  18% ] [90m[1m_update_scan_actions[22m | character-idle.png[39m[0m
+[  27% ] [90m[1m_update_scan_actions[22m | character-run.png[39m[0m
+[  36% ] [90m[1m_update_scan_actions[22m | character-walk.png[39m[0m
+[  45% ] [90m[1m_update_scan_actions[22m | playable-day.png[39m[0m
+[  54% ] [90m[1m_update_scan_actions[22m | playable-hit.png[39m[0m
+[  63% ] [90m[1m_update_scan_actions[22m | playable-night.png[39m[0m
+[  72% ] [90m[1m_update_scan_actions[22m | playable-pause.png[39m[0m
+[  81% ] [90m[1m_update_scan_actions[22m | playable-resized.png[39m[0m
+[92m[ DONE ][39m [1m_update_scan_actions[22m
+[0m
+[   0% ] [90m[1mreimport[22m | Started 正在导入或重新导入资产 (11 steps)[39m[0m
+[   0% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[   8% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  16% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  25% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  33% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  41% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  50% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  58% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  66% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  75% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  83% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[   0% ] [90m[1mreimport[22m | 正在执行重新导入的前置操作……[39m[0m
+[   0% ] [90m[1mpreload_reimporting_scene[22m | Started 正在准备重新加载场景 (1 steps)[39m[0m
+[   0% ] [90m[1mpreload_reimporting_scene[22m | 正在分析场景 [空][39m[0m
+[  50% ] [90m[1mpreload_reimporting_scene[22m | 准备完成。[39m[0m
+[92m[ DONE ][39m [1mpreload_reimporting_scene[22m
+[0m
+[   0% ] [90m[1mreimport[22m | boy_texture_0.png[39m[0m
+[   8% ] [90m[1mreimport[22m | character-attack_branch.png[39m[0m
+[  16% ] [90m[1mreimport[22m | character-idle.png[39m[0m
+[  25% ] [90m[1mreimport[22m | character-run.png[39m[0m
+[  33% ] [90m[1mreimport[22m | character-walk.png[39m[0m
+[  41% ] [90m[1mreimport[22m | playable-day.png[39m[0m
+[  50% ] [90m[1mreimport[22m | playable-hit.png[39m[0m
+[  58% ] [90m[1mreimport[22m | playable-night.png[39m[0m
+[  66% ] [90m[1mreimport[22m | playable-pause.png[39m[0m
+[  75% ] [90m[1mreimport[22m | playable-resized.png[39m[0m
+[  75% ] [90m[1mreimport[22m | playable-resized.png[39m[0m
+[  83% ] [90m[1mreimport[22m | boy.glb[39m[0m
+[   0% ] [90m[1mimport[22m | Started 导入场景 (104 steps)[39m[0m
+[   0% ] [90m[1mimport[22m | 导入场景中...[39m[0m
+[   1% ] [90m[1mimport[22m | 执行自定义脚本...[39m[0m
+[  99% ] [90m[1mimport[22m | 保存中...[39m[0m
+[92m[ DONE ][39m [1mimport[22m
+[0m
+[  91% ] [90m[1mreimport[22m | 正在结束资产导入……[39m[0m
+[92m[ DONE ][39m [1mreimport[22m
+[0m
+[   0% ] [90m[1mreimport[22m | Started 正在导入或重新导入资产 (11 steps)[39m[0m
+[   0% ] [90m[1mreimport[22m | 正在执行重新导入的后置操作……[39m[0m
+[92m[ DONE ][39m [1mreimport[22m
+[0m
+[   0% ] [90m[1mloading_editor_layout[22m | Started 正在加载编辑器 (5 steps)[39m[0m
+[   0% ] [90m[1mloading_editor_layout[22m | 正在加载编辑器布局……[39m[0m
+[  16% ] [90m[1mloading_editor_layout[22m | 正在加载停靠面板……[39m[0m
+[92m[ DONE ][39m [1mloading_editor_layout[22m
+[0m

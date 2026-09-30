@@ -1,0 +1,114 @@
+[
+  {
+    "path": "game\\ui\\hud.gd",
+    "sha256": "4C20B387356D5C140C213DF0F90C02945F58B9E1194C160FB2774E6068E59746"
+  },
+  {
+    "path": "game\\tests\\test_input.gd",
+    "sha256": "6A729D85D6B6D0169670EA766D506AE387777CE3E60BE3EAFCE9C6685FFD2963"
+  },
+  {
+    "path": "game\\tests\\test_game.gd",
+    "sha256": "F7EE0BD65236BC6BEE6A01E76853D28C0510A6E76E8B27267F298847A7FC5302"
+  },
+  {
+    "path": "game\\tests\\test_character.gd",
+    "sha256": "EC2593BA4614EDAD29A7BDAD2646E0B9F34362F00DAE652EC91CF0A3C2AC9579"
+  },
+  {
+    "path": "game\\tests\\test_attack.gd",
+    "sha256": "DC0CE323E3B291701D632D2676596877C7DF82EE389599E441CBDEEF06879BBC"
+  },
+  {
+    "path": "game\\tests\\render_sample.gd",
+    "sha256": "A104983C89F8057407516E14288C97B59573187CECCF5850D3596E44B6A826AF"
+  },
+  {
+    "path": "game\\tests\\render_character.gd",
+    "sha256": "B5A8737833CF16798C82E4798E0AB649D14B72D5D695FD048F7FD25B616C43AD"
+  },
+  {
+    "path": "game\\tests\\inspect_character.gd",
+    "sha256": "B27F940C4B04FE12ABA3BAD3A62B419030203BDF98978D3DE5F687F70587BE4B"
+  },
+  {
+    "path": "game\\project.godot",
+    "sha256": "FCD6433FCAF410E50809C6BA5E095166CF084073A62ACF053B1169867D5482C8"
+  },
+  {
+    "path": "game\\scripts\\practice_target.gd",
+    "sha256": "25C07A184FE6070686192902351D4C58B7D133A3CAA77861172301174C7662D1"
+  },
+  {
+    "path": "game\\scripts\\player.gd",
+    "sha256": "06FCA559AA1E62B6D4C4C46D0FF126031B664D622652111B3EDBFE7CB8637E03"
+  },
+  {
+    "path": "game\\scripts\\main.gd",
+    "sha256": "B194CAE1484D170EBEA7ADBE5E1F015FFDE1696DDBA91C1DBAAD3275E888DDF0"
+  },
+  {
+    "path": "game\\scripts\\attack_state.gd",
+    "sha256": "CD50EF4F70BAFE98A963EE80F459BF433DE5A541658F71A01233546D72C52EB4"
+  },
+  {
+    "path": "game\\environment\\capture_environment.gd",
+    "sha256": "A4B457CBA63626A08D9039F6F7EBC3C633B9453A07A21C3DD9AB30E076F9F190"
+  },
+  {
+    "path": "game\\environment\\check_environment.gd",
+    "sha256": "3CEB30C619BD0B571BF27F51C0A5CFF6EA9B96549ABE7592A467E295E3247E3D"
+  },
+  {
+    "path": "game\\environment\\corn.gdshader",
+    "sha256": "7A42620870B44F273B99FB6933DBF55559DF48EC42F30576794111CF9B56FFA6"
+  },
+  {
+    "path": "game\\environment\\cornfield.gd",
+    "sha256": "BBC39FCD6175E8F04D160190F75FB5E4887AC3B5716A60937CCE77D01A8AB4BA"
+  },
+  {
+    "path": "game\\environment\\soil.gdshader",
+    "sha256": "6C165687D6BE85494894E942774F799DD4625B51093FCF3AB753B52A51E7ED2B"
+  },
+  {
+    "path": "game\\environment\\inspect_material.gd",
+    "sha256": "9E84E472430C1A8A1AC97633C4B97CA421BB8956516F2E446816DCFECDF431DE"
+  },
+  {
+    "path": "game\\assets\\characters\\boy\\boy.glb",
+    "sha256": "56A007413153F606C7C7D1329CD3841159192B4F8BD861441EC19526506B3BC4"
+  },
+  {
+    "path": "game\\assets\\environment\\tree.glb",
+    "sha256": "C6186D76DAFD9124315E367D35EFB5FE3453917DFED9AB41074C8A3E17F9DAEB"
+  },
+  {
+    "path": "game\\assets\\environment\\rocks.glb",
+    "sha256": "4DA988D9A10FFC607ACF87F110915E095FAB8136591E2A533EEE171C0F9E9299"
+  },
+  {
+    "path": "game\\assets\\environment\\jar.glb",
+    "sha256": "F0BEDA5DEBC29640044667D6AF237EBFA72C38D1B2258CC95AED48C358ACF586"
+  },
+  {
+    "path": "game\\assets\\environment\\haystack.glb",
+    "sha256": "412DA6517DEF0646E8CA81E6A1A694B811876A7B33D16C575B511B378C7D8B62"
+  },
+  {
+    "path": "game\\assets\\environment\\grass.glb",
+    "sha256": "D8518E4750000CF1102DBEF407DB745BF41A5409A7076E32C39373114ADE0C91"
+  },
+  {
+    "path": "game\\assets\\environment\\fence.glb",
+    "sha256": "F1A86E82D6E757994F6276CAB1E0EA6BD4D449F717B875F8086CD86CD9A2FB44"
+  },
+  {
+    "path": "game\\assets\\environment\\crate.glb",
+    "sha256": "21601817A807BE954B7BCCFB753421FAE418CE34406EE66532E471F778D8E82C"
+  },
+  {
+    "path": "game\\assets\\environment\\corn.glb",
+    "sha256": "637D9D0DB94D3013E7FA7A413ACCC4D9C75A9A4CE2A60ECCFCF12D801BDC1DE3"
+  }
+]

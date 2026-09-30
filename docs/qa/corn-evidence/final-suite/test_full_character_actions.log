@@ -1,0 +1,31 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Character animation mapping: { "idle": "idle", "walk": "walk", "run": "run", "attack_branch": "attack_branch" }
+Character context animation mapping: { "hurt": "hurt", "pick_up": "pick_up", "interact": "interact", "push": "push", "vault": "vault" }
+PASS: v004 GLB imports four original and five context clips
+PASS: original imported clip duration unchanged: idle
+PASS: original imported clip duration unchanged: walk
+PASS: original imported clip duration unchanged: run
+PASS: original imported clip duration unchanged: attack_branch
+PASS: five optional clips are discovered without changing core four mapping
+PASS: trimmed pickup clip imports at roughly 1.6 seconds
+PASS: pickup clip starts on demand
+PASS: pickup is not immediately overwritten by idle
+PASS: branch cannot interrupt active pickup
+PASS: completed action returns to idle
+PASS: original branch attack remains available
+PASS: damage during committed branch preserves its hit window
+PASS: reaction is queued behind committed branch
+PASS: pause freezes pending reaction and attack window
+PASS: queued damage reaction plays after branch completes
+PASS: combat input can recover from hurt without being swallowed
+PASS: reset clears one-shot state
+PASS: collecting the tin triggers pickup clip
+PASS: clearing the water mouth triggers interaction clip
+PASS: crossing fence triggers vault clip
+PASS: moving cart triggers push clip
+PASS: accepted damage triggers reaction clip
+PASS: scene damage queues reaction during branch
+PASS: loss clears queued and active character actions
+PASS: full retry clears contextual animation
+Full character actions: 0 failures

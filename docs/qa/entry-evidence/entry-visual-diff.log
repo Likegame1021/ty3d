@@ -1,0 +1,8 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 591.86 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 3080 Ti
+
+ENTRY_VISUAL wind changed_green_pixels=202290 pixel_diff=287288 passed=true
+ENTRY_VISUAL chicken changed_green_pixels=2584 pixel_diff=4394 passed=true
+ENTRY_VISUAL creature changed_green_pixels=587 pixel_diff=1209 passed=true
+ENTRY_VISUAL player changed_green_pixels=23494 pixel_diff=35477 passed=true
+ENTRY_VISUAL_DIFF_OK

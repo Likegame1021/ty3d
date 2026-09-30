@@ -1,0 +1,12 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Failed to read the root certificate store.
+   at: get_system_ca_certificates (platform/windows/os_windows.cpp:2582)
+Character animation mapping: { "idle": "idle", "walk": "walk", "run": "run", "attack_branch": "attack_branch" }
+Character context animation mapping: { "hurt": "hurt", "pick_up": "pick_up", "interact": "interact", "push": "push", "vault": "vault" }
+PASS: boss meter stays out of early zone
+PASS: boss meter appears with twelve health
+PASS: half health and full charge are readable
+PASS: ready charge has explicit release prompt
+PASS: charge feedback clears and weather label updates
+Full HUD: 0 failures

@@ -1,0 +1,92 @@
+[
+  {
+    "case": "import",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "entry-smoke",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "test_entry_enemy",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "test_entry_input",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "test_entry_progress",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "test_entry_route",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "test_entry",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "m0-test_attack",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "m0-test_character",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "m0-test_game",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "m0-test_input",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "m0-environment",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "entry-environment",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "entry-render",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "entry-visual-diff",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  }
+]

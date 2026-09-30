@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/art/characters/boy/meshy/v001/animations/animations.glb",
+    "vertices": 31941,
+    "polygons": 20600,
+    "unique_positions": 10087,
+    "has_custom_normals": true,
+    "smooth_polygons": 18387,
+    "duplicate_weight_mismatches": 0,
+    "max_duplicate_weight_delta": 0
+  },
+  {
+    "path": "/game/assets/characters/boy/boy.glb",
+    "vertices": 31953,
+    "polygons": 20600,
+    "unique_positions": 10087,
+    "has_custom_normals": true,
+    "smooth_polygons": 18187,
+    "duplicate_weight_mismatches": 0,
+    "max_duplicate_weight_delta": 0
+  }
+]

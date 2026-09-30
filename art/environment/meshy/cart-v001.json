@@ -1,0 +1,53 @@
+{
+  "name": "cart",
+  "source": "G:\\Game\\vallage\\art\\environment\\meshy\\farm-cart\\v001\\model.glb",
+  "original_dimensions_blender_xyz": [
+    1.9021,
+    1.0497,
+    0.5954
+  ],
+  "final_dimensions_blender_xyz": [
+    1.3244,
+    2.4,
+    0.7512
+  ],
+  "final_min_z": 0.0,
+  "scale_xyz": [
+    1.261733,
+    1.261733,
+    1.261733
+  ],
+  "mesh_objects": 1,
+  "triangles": 5281,
+  "materials": [
+    "Material_0"
+  ],
+  "images": [
+    {
+      "name": "Image_0",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "Image_1",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "normal",
+      "size": [
+        2048,
+        2048
+      ]
+    }
+  ],
+  "roof_objects": [],
+  "roof_selected_faces": 0,
+  "recovered_canopy_polygons": 0,
+  "output_glb": "G:\\Game\\vallage\\game\\assets\\environment\\meshy\\cart.glb",
+  "output_blend": "G:\\Game\\vallage\\art\\environment\\meshy\\cart-v001.blend"
+}

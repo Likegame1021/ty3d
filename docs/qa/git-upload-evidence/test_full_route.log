@@ -1,0 +1,40 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Character animation mapping: { "idle": "idle", "walk": "walk", "run": "run", "attack_branch": "attack_branch" }
+Character context animation mapping: { "hurt": "hurt", "pick_up": "pick_up", "interact": "interact", "push": "push", "vault": "vault" }
+PASS: spawn physically reaches chicken
+PASS: route actually observes harmless chicken
+PASS: chicken path reaches tin
+PASS: route carries tin
+PASS: main route reaches water mouth
+PASS: route clears mouth
+PASS: route can stand on south side of gate
+ROUTE_BLOCK: CanalGateBlocker at (4.933424, 0.045, 20.97094) to (5.0, 0.05, 16.5)
+PASS: closed center gate physically blocks crossing
+ROUTE_BLOCK: WestCanalBarrier at (-24.0, 0.05, 20.97305) to (-24.0, 0.05, 16.0)
+PASS: closed west bank prevents bypass
+ROUTE_BLOCK: EastCanalBarrier at (24.0, 0.05, 20.96983) to (24.0, 0.05, 16.0)
+PASS: closed east bank prevents bypass
+PASS: route opens gate from reachable south bank
+PASS: open bridge physically crosses canal
+PASS: route enters dense corn and reaches stone point
+PASS: physical route uses stone distraction
+PASS: route reaches south side of low fence
+ROUTE_BLOCK: VaultFenceCollision at (-5.0, 0.05, 3.344922) to (-5.0, 0.05, 1.8)
+PASS: low fence physically requires vault at its center
+PASS: route vaults low fence
+PASS: route reaches farm board
+PASS: route picks board
+PASS: route reaches south side of solid cart
+ROUTE_BLOCK: CartBodyCollision at (16.06302, 0.05, -12.00331) to (17.0, 0.05, -18.0)
+PASS: cart physically blocks shed before moving
+PASS: route moves cart with board
+PASS: moved cart permits physical entry into shed
+PASS: route takes old launcher
+PASS: route exits shed through open south face
+PASS: route clears shed side wall
+PASS: route reaches boss approach
+PASS: launcher unlocks physical boss entrance
+PASS: physical entry starts boss
+FULL_ROUTE_EVIDENCE: { "waypoints": ["bridge", "boss"], "canal_open": true, "cart_moved": true, "launcher_taken": true, "boss_active": true }
+Full route: 0 failures

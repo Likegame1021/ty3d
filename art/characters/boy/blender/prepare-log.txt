@@ -1,0 +1,22 @@
+22:34:23 | INFO: Data are loaded, start creating Blender stuff
+22:34:23 | INFO: Blender create Mesh node char1
+22:34:23 | INFO: glTF import finished in 0.19s
+00:03.391  reports          | WARNING Path 'D:\5.2\datafiles\assets\brushes\essentials_brushes-gp_draw.blend' cannot be made relative for Material 'Dots Stroke'
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:03.391  reports          | WARNING Path 'D:\5.2\datafiles\assets\brushes\essentials_brushes-gp_draw.blend' cannot be made relative for Material 'Material'
+Info: Saved as "boy-rigged-v001.blend"
+INFO Draco is available, use library at D:\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at D:\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+22:34:25 | INFO: Starting glTF 2.0 export
+22:34:25 | INFO: Extracting primitive: char1
+22:34:25 | INFO: Primitives created: 1
+22:34:25 | INFO: Finished glTF 2.0 export in 0.7000699043273926 s
+
+CHARACTER_EXPORT_OK {"walk": 4.199999809265137, "idle": 4.0, "attack_branch": 1.5, "run": 0.7333333492279053}
+00:24.766  render           | Saved: 'G:\Game\vallage\art\characters\boy\blender\pose-idle.png'
+00:25.047  render           | Saved: 'G:\Game\vallage\art\characters\boy\blender\pose-run.png'
+00:25.313  render           | Saved: 'G:\Game\vallage\art\characters\boy\blender\pose-attack_branch.png'
+CHARACTER_PREVIEWS_OK
+Unable to delete file
+
+Blender quit

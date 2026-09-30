@@ -1,0 +1,18 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 591.86 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 3080 Ti
+
+Character animation mapping: { "idle": "idle", "walk": "walk", "run": "run", "attack_branch": "attack_branch" }
+Character context animation mapping: { "hurt": "hurt", "pick_up": "pick_up", "interact": "interact", "push": "push", "vault": "vault" }
+CAPTURE: full-entrance
+CAPTURE: full-canal-closed
+CAPTURE: full-canal-open
+CAPTURE: full-dense-pursuit
+CAPTURE: full-cart-moved
+CAPTURE: full-boss-approach
+CAPTURE: full-boss-burrow
+CAPTURE: full-corn-spilled
+CAPTURE: full-corn-gun
+CAPTURE: full-corn-scatter
+CAPTURE: full-victory-960
+CAPTURE: full-failure-960
+FULL_GPU_CAPTURE_OK

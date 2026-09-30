@@ -1,0 +1,22 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS: later zones cannot be skipped
+PASS: chicken clue is required
+PASS: chicken and tin happen once
+PASS: water mouth precedes gate
+PASS: pursuit tools are usable
+PASS: board-cart-launcher order
+PASS: launcher is unique and opens boss
+PASS: gun and win cannot be skipped
+PASS: half health reveals corn gun
+PASS: boss defeat ends run
+PASS: branch alone cannot finish before gun combination
+PASS: outcome freezes time and damage
+PASS: retry restores complete progress
+PASS: separate hit accepted
+PASS: separate hit accepted
+PASS: separate hit accepted
+PASS: separate hit accepted
+PASS: separate hit accepted
+PASS: zero hearts loses and cannot win
+Full progress: 0 failures

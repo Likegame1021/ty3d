@@ -1,0 +1,56 @@
+[
+  {
+    "case": "import",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "attack",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "character",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "integration",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "input",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "environment",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "smoke",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "render",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  },
+  {
+    "case": "character-render",
+    "exit_code": 0,
+    "passed": true,
+    "errors": 0
+  }
+]

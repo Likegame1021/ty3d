@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>玉米地首版 · 美术对照</title>
+<style>
+body{margin:0;background:#ede7d9;color:#302e25;font:16px/1.7 "Microsoft YaHei",sans-serif}main{max-width:1360px;margin:auto;padding:32px 24px}h1{font-size:30px;margin:0 0 8px}h2{font-size:22px;margin:30px 0 12px}p{max-width:1000px}a{color:#385a3c}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.three{grid-template-columns:repeat(3,minmax(0,1fr))}figure{margin:0;background:#fffaf0;border:1px solid #d3c9b4;border-radius:10px;overflow:hidden}img{display:block;width:100%;height:auto}figcaption{padding:10px 14px;font-size:14px}.note{padding:12px 16px;background:#f8f0cf;border-left:4px solid #a27c36}.tag{font-size:13px;color:#685e44}@media(max-width:760px){.grid,.three{grid-template-columns:1fr}}
+</style>
+<main>
+<div class="tag">2026-09-28 · Windows / Godot · 实际资产与实机截图</div>
+<h1>玉米地首版 · 美术对照</h1>
+<p>检查基线是温暖的河南农村童年、风格化卡通写实、清楚的大块形体与适度旧物细节。下方游戏画面来自本地 GPU 捕获；概念图只作为方向参考。</p>
+<p class="note">当前整体美术尚未达到概念图完成度。棚屋、板车与树干已走真实 Meshy → Blender → Godot 流程；树冠因生成缺失由 Blender 补建。地面、玉米组合、小道具及敌人仍有原型质感。推车和翻越动作仍需完善接触与位移同步。</p>
+<h2>原方向与游戏镜头</h2>
+<div class="grid">
+<figure><img src="../references/henan_countryside_forever_summer.png" alt="用户提供的乡村风格基线"><figcaption>用户原始方向：暖阳、自然绿色、旧木与土路，形体简化但有材质层次。</figcaption></figure>
+<figure><img src="../../game/tests/full-entrance.png" alt="完整场景入口实际画面"><figcaption>正式斜俯视镜头：检查主角、玉米、地表和界面共同出现时的阅读效果。</figcaption></figure>
+</div>
+<h2>已投入 Meshy 的独立参考图</h2>
+<div class="grid three">
+<figure><img src="../../art/environment/references/style-v002/tool-shed.png" alt="农具棚独立参考"><figcaption>农具棚：旧木板、清晰开口、暖棕色。</figcaption></figure>
+<figure><img src="../../art/environment/references/style-v002/farm-cart.png" alt="板车独立参考"><figcaption>板车：明确的车轮、斗体与把手。</figcaption></figure>
+<figure><img src="../../art/environment/references/style-v002/locust-tree.png" alt="树木独立参考"><figcaption>树木：夏季茂盛树冠与厚实树干。生成结果缺冠，已补建。</figcaption></figure>
+</div>
+<h2>模型落地与天气</h2>
+<div class="grid">
+<figure><img src="../../game/tests/full-env-farm.png" alt="农具区晴天实机"><figcaption>晴天农具区：模型尺度、木材纹理、树冠层次与暖色光照。</figcaption></figure>
+<figure><img src="../../game/tests/full-env-farm-inside.png" alt="农具棚屋顶隐藏"><figcaption>进入棚内后的屋顶隐藏：保证俯视交互可见，碰撞单独保留。</figcaption></figure>
+<figure><img src="../../game/tests/full-env-farm-rain.png" alt="农具区雨天实机"><figcaption>雨天：雨丝、湿润反馈与物体辨识度。</figcaption></figure>
+<figure><img src="../../game/tests/full-env-farm-snow.png" alt="农具区雪天实机"><figcaption>雪天：保留路面层次与道具轮廓；属于季节预览。</figcaption></figure>
+</div>
+<h2>动画来源与修整</h2>
+<p>保留原角色模型与四段已验证动画，从 Meshy 同一骨架补入受伤、拾取、交互、推车、翻越。Blender 裁剪拾取冗余片段、整理根位移和播放节奏，再由 Godot 真实事件触发。当前骨架没有独立手指骨，不能据此宣称握持与手物接触已精修完成。</p>
+<div class="grid">
+<figure><img src="../../art/characters/boy/blender/pose-pick_up-v004.png" alt="Blender拾取动作姿态"><figcaption>Blender 拾取动作采样：检查弯腰幅度与服装变形。</figcaption></figure>
+<figure><img src="../../art/characters/boy/blender/pose-vault-v004.png" alt="Blender翻越动作姿态"><figcaption>Blender 翻越动作采样：当前作为可用原型继续验证。</figcaption></figure>
+</div>
+<p><a href="full-scene-gallery.html">查看三种天气 × 日夜六态</a> · <a href="full-scene-results.md">最终 QA 记录</a> · <a href="../../art/environment/meshy/production-ledger.md">真实任务与积分记录</a></p>
+</main>
+</html>

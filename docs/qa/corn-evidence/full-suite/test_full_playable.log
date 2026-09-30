@@ -1,0 +1,31 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Character animation mapping: { "idle": "idle", "walk": "walk", "run": "run", "attack_branch": "attack_branch" }
+Character context animation mapping: { "hurt": "hurt", "pick_up": "pick_up", "interact": "interact", "push": "push", "vault": "vault" }
+PASS: real character uses full-scene bounds
+PASS: fresh run starts sunny daytime with five hearts
+PASS: initial guidance matches chicken objective
+PASS: cart cannot move before board
+PASS: tin requires chicken clue
+PASS: chicken discovery is stable
+PASS: post-chicken guidance points to tin
+PASS: tin is collected exactly once
+PASS: post-tin guidance points to canal
+PASS: gate needs mouth clearing
+PASS: mouth then gate opens canal
+PASS: post-canal guidance points to board
+PASS: stone redirects active pursuer
+PASS: E vaults fence to north side
+PASS: post-board guidance points to cart
+PASS: post-cart guidance points to launcher
+PASS: board cart and launcher form ordered route
+PASS: boss starts only after launcher
+PASS: real branch hit window damages recovering boss once
+PASS: half health drops gun material and gives safe window
+PASS: gun combines once without extra boss damage
+PASS: gun defeats boss and victory freezes scene
+PASS: victory retry restores all stages and weather
+PASS: pause blocks interaction and keeps weather/night independent
+PASS: five separated hits show failure
+PASS: failure retry resets enemies and sky
+Full playable: 0 failures

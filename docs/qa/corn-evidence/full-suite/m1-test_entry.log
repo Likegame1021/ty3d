@@ -1,0 +1,32 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Character animation mapping: { "idle": "idle", "walk": "walk", "run": "run", "attack_branch": "attack_branch" }
+Character context animation mapping: { "hurt": "hurt", "pick_up": "pick_up", "interact": "interact", "push": "push", "vault": "vault" }
+PASS: real entry environment API loaded
+PASS: M1 uses real four animation character
+PASS: distant creature label stays hidden before encounter
+PASS: spatial audio listens beside player instead of distant orthographic camera
+PASS: empty-handed exit explains missing box
+PASS: item cannot skip harmless discovery
+PASS: approaching moving chicken reveals harmless clue
+PASS: chicken discovery does not spoil distant creature
+PASS: branch cannot hurt chicken or farm rewards
+PASS: E collection consumes box exactly once
+PASS: northern bypass observes danger without striking creature
+PASS: observed creature gains an identifying danger label
+PASS: non-combat route completes with box and freezes danger
+PASS: completion clears stale gameplay prompts
+PASS: won run cannot take damage or accumulate time
+PASS: victory retry resets quest health and item
+PASS: victory retry restores creature
+PASS: victory retry restores entry spawn and attack
+PASS: one swing hits and stuns creature only once
+PASS: paused creature cannot receive damage
+PASS: second separate swing drives creature away without requiring a kill
+PASS: driven-away creature cannot be farmed for repeated hits
+PASS: retry clears stun knockback and enemy visuals
+PASS: consecutive contact events remove only one heart
+PASS: three separated hits show failure and stop danger
+PASS: failure clears transient hit feedback behind result
+PASS: failure retry resets complete run
+Entry playable: 0 failures

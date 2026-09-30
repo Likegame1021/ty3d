@@ -1,0 +1,19 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS: boss telegraphs sweep before hit
+PASS: sweep damages only after windup
+PASS: burrow warns at target position
+PASS: burrow physically travels through corn before eruption
+PASS: buried figure becomes moving mound with visible destination warning
+PASS: burrow erupts once
+PASS: third skill is summon telegraph
+PASS: summon emits one group request
+PASS: inactive boss cannot act
+PASS: retry clears boss timers and attack cycle
+PASS: pursuer notices nearby player
+PASS: stone redirects pursuer
+PASS: distraction expires into return
+PASS: retry clears pursuer state
+PASS: summoned minion shows readable windup before contact
+PASS: summoned minion strikes once after windup
+Full combat: 0 failures

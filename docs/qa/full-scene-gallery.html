@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>风过玉米地 · 天气实机对照</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#19231c;color:#efe7d5;font:16px/1.65 "Microsoft YaHei",sans-serif}main{max-width:1440px;margin:auto;padding:40px 28px 64px}h1{font-size:32px;margin:0 0 8px}p{color:#b6c4b5;margin:6px 0 26px}.grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:0 0 30px}figure{margin:0;background:#26342a;border:1px solid #465742;border-radius:10px;overflow:hidden}img{display:block;width:100%;aspect-ratio:1.6;object-fit:contain;background:#111b15}figcaption{padding:12px 16px;font-size:17px}small{color:#b6c4b5}a{color:#edcb82;text-underline-offset:3px}h2{margin:24px 0 12px;font-size:23px}footer{border-top:1px solid #465742;padding-top:24px;font-size:14px;color:#b6c4b5}@media(max-width:800px){.grid{grid-template-columns:1fr}main{padding:24px 14px}h1{font-size:26px}}
+</style>
+<main>
+<h1>风过玉米地 · 天气实机对照</h1>
+<p>同一入口机位的 Godot 实际 GPU 截图。点击画面可查看原图。游戏中 F6 切换天气，Tab 切换昼夜。</p>
+<h2>夏日晴天</h2>
+<div class="grid">
+<figure><a href="../../game/tests/full-weather-sunny-day.png"><img src="../../game/tests/full-weather-sunny-day.png" alt="夏日晴天入口实机画面"></a><figcaption>白天 <small>· 默认夏日光照</small></figcaption></figure>
+<figure><a href="../../game/tests/full-weather-sunny-night.png"><img src="../../game/tests/full-weather-sunny-night.png" alt="晴朗夜晚入口实机画面"></a><figcaption>夜晚 <small>· 月色与暖灯</small></figcaption></figure>
+</div>
+<h2>雨天</h2>
+<div class="grid">
+<figure><a href="../../game/tests/full-weather-rain-day.png"><img src="../../game/tests/full-weather-rain-day.png" alt="白天下雨的入口实机画面"></a><figcaption>白天 <small>· 雨丝、湿地与水面变化</small></figcaption></figure>
+<figure><a href="../../game/tests/full-weather-rain-night.png"><img src="../../game/tests/full-weather-rain-night.png" alt="雨夜入口实机画面"></a><figcaption>夜晚 <small>· 雨中视线与地面可读性</small></figcaption></figure>
+</div>
+<h2>雪天 · 季节预览</h2>
+<div class="grid">
+<figure><a href="../../game/tests/full-weather-snow-day.png"><img src="../../game/tests/full-weather-snow-day.png" alt="白天飘雪的入口实机画面"></a><figcaption>白天 <small>· 飘雪与表面积雪</small></figcaption></figure>
+<figure><a href="../../game/tests/full-weather-snow-night.png"><img src="../../game/tests/full-weather-snow-night.png" alt="雪夜入口实机画面"></a><figcaption>夜晚 <small>· 冷光下的积雪</small></figcaption></figure>
+</div>
+<footer>原图和采样数据：game/tests/full-weather-*.png、full-weather-evidence.json。截图用于画面检查，不代表真人听感或全关卡性能验收。<br>完整玩法说明：<a href="../play-full.md">play-full.md</a>；验收范围：<a href="full-scene-results.md">full-scene-results.md</a>。</footer>
+</main>
+</html>

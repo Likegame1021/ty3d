@@ -1,0 +1,398 @@
+[
+  {
+    "path": "game/assets/characters/boy/boy_texture_0.png",
+    "sha256": "B448CDC849138AEAEEFC0F85EDE9CD7420FCB8869198C9E784F70FB50ED8D13C"
+  },
+  {
+    "path": "game/assets/characters/boy/boy.glb",
+    "sha256": "2A8D287A85F6738F72C099A0C796BEC52234D746FBB0A8C5CE0BCBA9BD32B282"
+  },
+  {
+    "path": "game/assets/environment/corn.glb",
+    "sha256": "637D9D0DB94D3013E7FA7A413ACCC4D9C75A9A4CE2A60ECCFCF12D801BDC1DE3"
+  },
+  {
+    "path": "game/assets/environment/crate.glb",
+    "sha256": "21601817A807BE954B7BCCFB753421FAE418CE34406EE66532E471F778D8E82C"
+  },
+  {
+    "path": "game/assets/environment/fence.glb",
+    "sha256": "F1A86E82D6E757994F6276CAB1E0EA6BD4D449F717B875F8086CD86CD9A2FB44"
+  },
+  {
+    "path": "game/assets/environment/grass.glb",
+    "sha256": "D8518E4750000CF1102DBEF407DB745BF41A5409A7076E32C39373114ADE0C91"
+  },
+  {
+    "path": "game/assets/environment/haystack.glb",
+    "sha256": "412DA6517DEF0646E8CA81E6A1A694B811876A7B33D16C575B511B378C7D8B62"
+  },
+  {
+    "path": "game/assets/environment/jar.glb",
+    "sha256": "F0BEDA5DEBC29640044667D6AF237EBFA72C38D1B2258CC95AED48C358ACF586"
+  },
+  {
+    "path": "game/assets/environment/meshy/cart_Image_0.jpg",
+    "sha256": "9EE12BD1B384162A282FCD7E389534B6B59700A0071F9076679C5E681F63A77C"
+  },
+  {
+    "path": "game/assets/environment/meshy/cart_Image_1.jpg",
+    "sha256": "DDC571730038BAB814C385262D136E99F92C51AF0C2E442C6BB77FFE827DDF85"
+  },
+  {
+    "path": "game/assets/environment/meshy/cart_normal.png",
+    "sha256": "18216CFA64D90DC97E61C284387883E342537238DE21D8C7354687D59DEFBC27"
+  },
+  {
+    "path": "game/assets/environment/meshy/cart.glb",
+    "sha256": "57CDBE09158940BE0793FF144B73A73033B325DFBFCE0D77255CBFF49B6556B9"
+  },
+  {
+    "path": "game/assets/environment/meshy/shed_Image_0.jpg",
+    "sha256": "F6018A7CA954C3BE0139276A342AB59016C3AFDBB68054208CD5084C83BFE67A"
+  },
+  {
+    "path": "game/assets/environment/meshy/shed_Image_1.jpg",
+    "sha256": "C6FAAF1B5287B278414C157C9892F0972EA820A5F0A51F33FFDB15E886919B89"
+  },
+  {
+    "path": "game/assets/environment/meshy/shed_normal.png",
+    "sha256": "5D3D40829164E78A2C1F33BC9721746A4635AE6684EE25780429CD02E1565D12"
+  },
+  {
+    "path": "game/assets/environment/meshy/shed.glb",
+    "sha256": "D0D2DC5D9BD9BFF4BFCA241FD94D7125C44FC063A622E90587EA1130C27ADBA4"
+  },
+  {
+    "path": "game/assets/environment/meshy/tree_CanopyLeafTexture_00.png",
+    "sha256": "9A0D7C7C5BE586A8D9BFAF930BEA2BE9A399FA37BB5F68CFBB7CB652FC8DBB72"
+  },
+  {
+    "path": "game/assets/environment/meshy/tree_CanopyLeafTexture_01.png",
+    "sha256": "400F48FD50FE959EAA969659F993363B1E73C33AD4D2F67F54C4EBCB30F9CEAF"
+  },
+  {
+    "path": "game/assets/environment/meshy/tree_CanopyLeafTexture_02.png",
+    "sha256": "3D04D08EB3C00956E5A68C6C73248B6CEDD81D2FF598C1A9AF069165C3153501"
+  },
+  {
+    "path": "game/assets/environment/meshy/tree_CanopyLeafTexture_03.png",
+    "sha256": "F478CE427F59ABD2A4AFE4BA0BF8FE38B68812AACD962737011D347331C12604"
+  },
+  {
+    "path": "game/assets/environment/meshy/tree_CanopyLeafTexture_04.png",
+    "sha256": "BDD43E65B596771FA8BF86AAF2DD29011E63674AF08CCA63781F2C9625591F7A"
+  },
+  {
+    "path": "game/assets/environment/meshy/tree_Image_0.jpg",
+    "sha256": "AFB24736D56E24F276DE9164DE57D25435072071355B4F331CB623CCAA898F29"
+  },
+  {
+    "path": "game/assets/environment/meshy/tree_Image_1.jpg",
+    "sha256": "2E9EB9F57C306FD0B69371C1BECC083BBC68F75AFADF45C79BAEFEFD6123AA34"
+  },
+  {
+    "path": "game/assets/environment/meshy/tree_normal.png",
+    "sha256": "4D17294F309498D96AB34A76E5FD829FB4AC0F0CCCD4BE1C68692F4BB4BC0960"
+  },
+  {
+    "path": "game/assets/environment/meshy/tree.glb",
+    "sha256": "70DA16F7B1B959B26F3F225550F914E6E25892666EF2AFE1AD5CCAA4E236C7F8"
+  },
+  {
+    "path": "game/assets/environment/rocks.glb",
+    "sha256": "4DA988D9A10FFC607ACF87F110915E095FAB8136591E2A533EEE171C0F9E9299"
+  },
+  {
+    "path": "game/assets/environment/tree.glb",
+    "sha256": "C6186D76DAFD9124315E367D35EFB5FE3453917DFED9AB41074C8A3E17F9DAEB"
+  },
+  {
+    "path": "game/environment/capture_environment.gd",
+    "sha256": "A4B457CBA63626A08D9039F6F7EBC3C633B9453A07A21C3DD9AB30E076F9F190"
+  },
+  {
+    "path": "game/environment/check_environment.gd",
+    "sha256": "3CEB30C619BD0B571BF27F51C0A5CFF6EA9B96549ABE7592A467E295E3247E3D"
+  },
+  {
+    "path": "game/environment/corn.gdshader",
+    "sha256": "7A42620870B44F273B99FB6933DBF55559DF48EC42F30576794111CF9B56FFA6"
+  },
+  {
+    "path": "game/environment/cornfield.gd",
+    "sha256": "95B0782B27D09C07C1B47F849B453D37CBABCBFB885E6FA40FD12773F0691B29"
+  },
+  {
+    "path": "game/environment/entry_capture.gd",
+    "sha256": "ADF9760D67DB670E473B26CB645CC0C4F39D167B77D21C1673C39A44E568D562"
+  },
+  {
+    "path": "game/environment/entry_check.gd",
+    "sha256": "3225ECA5AA055212F4DE6FE73A735BD54EC2A8CAB6F9A66D38F0730C727353A4"
+  },
+  {
+    "path": "game/environment/entry_chirp.wav",
+    "sha256": "EF222C25EAC9E4DF8E12C49C005919ADCB414E78FDB5063D601F2021B246D812"
+  },
+  {
+    "path": "game/environment/entry_corn.gdshader",
+    "sha256": "BC913EC70AC8945108A644503DC886EFA50C99290793B2A62AD0E6B317E21BA2"
+  },
+  {
+    "path": "game/environment/entry_field.gd",
+    "sha256": "93A86246F376EB52E2E5F6A47AB1A73A45978A656DE2C9B18818860D04794761"
+  },
+  {
+    "path": "game/environment/entry_rustle.wav",
+    "sha256": "36D644FF5C19E8FFBD1956AF39D528965FFC8DDBE6EA08F6AAF56BFD20034B85"
+  },
+  {
+    "path": "game/environment/entry_soil.gdshader",
+    "sha256": "0007E975F424FEFB0B60B16C9E9DD331D4571955FCA1509A9D90D454591721F2"
+  },
+  {
+    "path": "game/environment/full_capture.gd",
+    "sha256": "DBD7EA16F0C20821C32AA94E65F9599F9A618A3123F09D5B4934CBA4F2885B1E"
+  },
+  {
+    "path": "game/environment/full_cart_snow.gdshader",
+    "sha256": "5BF58401D958F5A8801612420B9C33ABE36FF0AC439BB2088352691F63EB8CAA"
+  },
+  {
+    "path": "game/environment/full_corn.gdshader",
+    "sha256": "479C351EF8CA6E19CC3D4913B91215F12C9E14AA529E68710D538F5999D177BA"
+  },
+  {
+    "path": "game/environment/full_field_check.gd",
+    "sha256": "E3FE28C3D9D8AC3090ECB4697FE3CE255325E9E76AECF4B466EE3D90D84155EF"
+  },
+  {
+    "path": "game/environment/full_field.gd",
+    "sha256": "D8FA3F81D0D08E3FC1A5A60A4B2D5842CB192B3B5F57E1C4EB36AF83733909DE"
+  },
+  {
+    "path": "game/environment/full_soil.gdshader",
+    "sha256": "C6DF20FFF01A4FB643F6F058340129F9A32899AC59B2B515D65DB482A9EB91A4"
+  },
+  {
+    "path": "game/environment/full_water.gdshader",
+    "sha256": "253625824CBC87A35B3D9AC2EF693440B1F4C7BAFB07AD01074435B1EC12EAA2"
+  },
+  {
+    "path": "game/environment/full_wetland.gdshader",
+    "sha256": "DD541AEC7EE9CB5A03B2E1A4A0085247399A8044432B10A301E7D007CABA042D"
+  },
+  {
+    "path": "game/environment/inspect_material.gd",
+    "sha256": "9E84E472430C1A8A1AC97633C4B97CA421BB8956516F2E446816DCFECDF431DE"
+  },
+  {
+    "path": "game/environment/soil.gdshader",
+    "sha256": "6C165687D6BE85494894E942774F799DD4625B51093FCF3AB753B52A51E7ED2B"
+  },
+  {
+    "path": "game/environment/weather_precip.gdshader",
+    "sha256": "A7516F7868840805C3A11657E966D5D79A8B1684DD45AFF9BC0A01A3B0158182"
+  },
+  {
+    "path": "game/environment/weather.gd",
+    "sha256": "70A4E45772E6E39CACE12E4B7D1F3816D8805D4D32BF62BC1174586A2A37F0AA"
+  },
+  {
+    "path": "game/levels/entry.gd",
+    "sha256": "A12D5B241BD91FD5C24E3CB4B904F94AC894B3C1F88F99020D223B327B49157D"
+  },
+  {
+    "path": "game/levels/entry.tscn",
+    "sha256": "3FE03B127A8EDC84083A7F443F015EFCFE5607257A3DC9BE4AF74946447FB681"
+  },
+  {
+    "path": "game/levels/full.gd",
+    "sha256": "98FEFA473A90E38AEB8BD3F2746104D265343C1A4EF42F521247AE42003C10C6"
+  },
+  {
+    "path": "game/levels/full.tscn",
+    "sha256": "C51DDC0DD0DBD2306C79CE6382DF19FEF9CDC88168809833BF3C937346D640E2"
+  },
+  {
+    "path": "game/main.tscn",
+    "sha256": "372B8AE8DC41297BB20E587A16A901A2A0DBE6F8BD91E2835B221A425E9A7A66"
+  },
+  {
+    "path": "game/project.godot",
+    "sha256": "226A02292100549AE05A4E787E75C75A2D817E4EBBCB9F021353780C85077AE2"
+  },
+  {
+    "path": "game/scripts/attack_state.gd",
+    "sha256": "CD50EF4F70BAFE98A963EE80F459BF433DE5A541658F71A01233546D72C52EB4"
+  },
+  {
+    "path": "game/scripts/entry_chicken.gd",
+    "sha256": "EBC09BADD5E9A7DAFA58D0CA1E1848A0F4F2A2A82DE7725B887F2CD2868256CE"
+  },
+  {
+    "path": "game/scripts/entry_creature.gd",
+    "sha256": "C8AB56ECCA349E46B97CA06346E9A9E116122EAB762C53087476595B71241859"
+  },
+  {
+    "path": "game/scripts/entry_item.gd",
+    "sha256": "521742B2FBADFBBA766D08E5F6EA5B66975F5ECC0BA3BCCF7F1832198832219C"
+  },
+  {
+    "path": "game/scripts/entry_progress.gd",
+    "sha256": "9C00CBBC29B568F5CA48EC7E1614AD98FA1CAEF77C62695C0E0813F2DD5298F2"
+  },
+  {
+    "path": "game/scripts/entry_shapes.gd",
+    "sha256": "E5AC87F5FB4CCC6A6AF7A0CE7820EB621308ABDFEC26B3C5D85056CD99F30B1A"
+  },
+  {
+    "path": "game/scripts/full_boss.gd",
+    "sha256": "92D56979215A1B279010610B6AB9C9D10DB769C3E1E684076C595268E84A6EA8"
+  },
+  {
+    "path": "game/scripts/full_chicken.gd",
+    "sha256": "F9B0D1C7C653F4FE7953858CED7CD2E107EDF9C2F14B538721EEEA3B24DD3F4D"
+  },
+  {
+    "path": "game/scripts/full_minion.gd",
+    "sha256": "95BA68CDE5EEC903BF26923D2EBF81AA5B7C9376A522C65F73BB24CE4BA7A87D"
+  },
+  {
+    "path": "game/scripts/full_progress.gd",
+    "sha256": "559E9A633B0125300755EC0A62432E47EC78CA7D9E0F0C6D03AFA0369CD32A4D"
+  },
+  {
+    "path": "game/scripts/full_pursuer.gd",
+    "sha256": "EF922E915D6567C8C662431C7513C0E088D6D0BEF07E1A50276587E1BFF35EA4"
+  },
+  {
+    "path": "game/scripts/main.gd",
+    "sha256": "B194CAE1484D170EBEA7ADBE5E1F015FFDE1696DDBA91C1DBAAD3275E888DDF0"
+  },
+  {
+    "path": "game/scripts/player.gd",
+    "sha256": "0EE727C6A9F6E8F84B3DADB36B0060F3339AA2917C36A6E2145E416CD7A11257"
+  },
+  {
+    "path": "game/scripts/practice_target.gd",
+    "sha256": "25C07A184FE6070686192902351D4C58B7D133A3CAA77861172301174C7662D1"
+  },
+  {
+    "path": "game/tests/inspect_character.gd",
+    "sha256": "B27F940C4B04FE12ABA3BAD3A62B419030203BDF98978D3DE5F687F70587BE4B"
+  },
+  {
+    "path": "game/tests/render_character.gd",
+    "sha256": "B5A8737833CF16798C82E4798E0AB649D14B72D5D695FD048F7FD25B616C43AD"
+  },
+  {
+    "path": "game/tests/render_entry.gd",
+    "sha256": "7A7F007D6345BD988EA6C34EB98FA01B6D9AD400999460BCB53B978ECBC1615B"
+  },
+  {
+    "path": "game/tests/render_full.gd",
+    "sha256": "24D69B5C98D5DE87557348A35D2CBE86493906B7F256BDEF481A2FCFCE424156"
+  },
+  {
+    "path": "game/tests/render_sample.gd",
+    "sha256": "A104983C89F8057407516E14288C97B59573187CECCF5850D3596E44B6A826AF"
+  },
+  {
+    "path": "game/tests/test_attack.gd",
+    "sha256": "DC0CE323E3B291701D632D2676596877C7DF82EE389599E441CBDEEF06879BBC"
+  },
+  {
+    "path": "game/tests/test_character.gd",
+    "sha256": "EC2593BA4614EDAD29A7BDAD2646E0B9F34362F00DAE652EC91CF0A3C2AC9579"
+  },
+  {
+    "path": "game/tests/test_entry_enemy.gd",
+    "sha256": "90604F64D879AB07E39DB2743A08E8F8AE4F0641B4E38156A77238B2DF6B33EE"
+  },
+  {
+    "path": "game/tests/test_entry_input.gd",
+    "sha256": "F4E18995826507F94702578243C727E4FCF72B302F40C627298872D2E118C081"
+  },
+  {
+    "path": "game/tests/test_entry_progress.gd",
+    "sha256": "5A2EBE8E58838DC8CDFFC50BAFA73A971AE5FF1E335E0F9418C575367BB717E7"
+  },
+  {
+    "path": "game/tests/test_entry_route.gd",
+    "sha256": "BF2D7DADC3A7A36E68B412D40CB1CF1332BD54D005BC90C72CD52FC3CB3B48B9"
+  },
+  {
+    "path": "game/tests/test_entry.gd",
+    "sha256": "320E341F5DE5A3119CA93A7882C55B3DA221E76ADA1033C1FAAD9D872D1B0C41"
+  },
+  {
+    "path": "game/tests/test_full_character_actions.gd",
+    "sha256": "330DEF622BE1D802A6C4D64665F683F3EDEDA02566610BAF6242C12939ED9796"
+  },
+  {
+    "path": "game/tests/test_full_combat.gd",
+    "sha256": "7519638E91395DEC435AE0E4B42C3A53D5CABA0BD48954B5362FE02863E571B8"
+  },
+  {
+    "path": "game/tests/test_full_hud.gd",
+    "sha256": "EF46CDEBB05F0925BE903CDAE45C4780A981FE6A1A71B72A76273B40A617A786"
+  },
+  {
+    "path": "game/tests/test_full_input.gd",
+    "sha256": "51C10982937558393AEA6B5351C3B8A78FACEA9D13EE10C216632B9148E17BAF"
+  },
+  {
+    "path": "game/tests/test_full_playable.gd",
+    "sha256": "17CF5A369FCE909AFE4E81113680D3FA0ED5D66954D19F4CC554239692A2A39E"
+  },
+  {
+    "path": "game/tests/test_full_player_bounds.gd",
+    "sha256": "88512D69ED619135962BB73BE95DA8A12B404B3D0727597E23C3741D3C90602C"
+  },
+  {
+    "path": "game/tests/test_full_progress.gd",
+    "sha256": "1D8F5AC0F0D08660B50CE1D7E332A31A08A18F9F47F8A7BC9958E7638B2DC033"
+  },
+  {
+    "path": "game/tests/test_full_route.gd",
+    "sha256": "3ACE33C897DBB88DDF4C7A56765264E73C40614C03FFCE36822A7FC23873C1A1"
+  },
+  {
+    "path": "game/tests/test_full_weapon.gd",
+    "sha256": "4EC7EEE9C843F87E4F0EE496A557BB7C4149E64FB4322F19A3BF34CF694EF21D"
+  },
+  {
+    "path": "game/tests/test_game.gd",
+    "sha256": "F7EE0BD65236BC6BEE6A01E76853D28C0510A6E76E8B27267F298847A7FC5302"
+  },
+  {
+    "path": "game/tests/test_input.gd",
+    "sha256": "6A729D85D6B6D0169670EA766D506AE387777CE3E60BE3EAFCE9C6685FFD2963"
+  },
+  {
+    "path": "game/ui/entry_hud.gd",
+    "sha256": "7F323F4645C687990F1A60ACDE61D2C11508EAACA04A1FBFE610BA1F29D527E1"
+  },
+  {
+    "path": "game/ui/full_hud.gd",
+    "sha256": "5E93D0D5EDBCD781399F93CD2F926BE29239A769B6B5A306312F881D93D58675"
+  },
+  {
+    "path": "game/ui/hud.gd",
+    "sha256": "4C20B387356D5C140C213DF0F90C02945F58B9E1194C160FB2774E6068E59746"
+  },
+  {
+    "path": "tools/qa/full-canal-barrier.gd",
+    "sha256": "EBB55E4BB98C628052AFD9AD3BBCABE80FC6C596A21256C0B5AF4237C8B90D78"
+  },
+  {
+    "path": "tools/qa/full-gpu-weather.gd",
+    "sha256": "482CF640C6A469D43639D35D9631AA766FC812BACCA95928C03DCC04F6558158"
+  },
+  {
+    "path": "tools/qa/full-input-playthrough.gd",
+    "sha256": "81B9D0BE61C12815F32EC446DE31C86CA331C3A5673902101199B5C73D29D175"
+  }
+]
