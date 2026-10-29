@@ -1,0 +1,14 @@
+{
+  "engine": "Godot 4.6.3.stable.official.7d41c59c4",
+  "static_atlas_checks": 136,
+  "scene_checks": 44,
+  "rejection_checks": 13,
+  "failures": 0,
+  "source_retained_pixels": 531507,
+  "independent_directions": 8,
+  "baseline_original_suite": "passed",
+  "new_static_suite": "passed",
+  "independent_review": "passed after calibrated-profile hash-pin repair",
+  "graphical_review": "not run; no X11/Wayland; not a screenshot",
+  "baseline_files_unchanged": 837
+}

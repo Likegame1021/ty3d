@@ -1,0 +1,23 @@
+[
+  {
+    "file": "gatehouse.glb",
+    "source": "hd2d-asset-audit/candidates/gatehouse/gatehouse.glb",
+    "sha256": "f210ef3164910a56cdc43935f7eb28ca00cf220226a7fab72d5f47871d3629ac",
+    "copied_byte_identically": true,
+    "collision": "none; grid remains authoritative"
+  },
+  {
+    "file": "road_straight.glb",
+    "source": "hd2d-asset-audit/candidates/road_straight/road_straight.glb",
+    "sha256": "ca200802588ab513aebffc6da7fae6628f9651ec82ef88d0e8740e739d4ce42d",
+    "copied_byte_identically": true,
+    "collision": "none; grid remains authoritative"
+  },
+  {
+    "file": "road_turn.glb",
+    "source": "hd2d-asset-audit/candidates/road_turn/road_turn.glb",
+    "sha256": "1e4b526e0a914de42ac809450ca44baaa43f9b97f9edf4911ed3192dd8e3a2b0",
+    "copied_byte_identically": true,
+    "collision": "none; grid remains authoritative"
+  }
+]

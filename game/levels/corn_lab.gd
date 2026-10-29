@@ -171,7 +171,7 @@ func _process(delta: float) -> void:
 		return
 	hud.objective_label.text = ["玉米枪试射 · 木靶", "玉米枪试射 · 清怪", "玉米枪试射 · 稻草人"][lab_mode]
 	hud.context_label.text = "鼠标瞄准 · 按住左键连射 · 右键蓄力散射\nF 切换木靶 / 清怪 / Boss　 E 复原木靶　 R 重开　 Esc 暂停"
-	hud.controls_label.text = "WASD 移动 · Shift 跑 · Q 切换树枝 / 玉米枪\nTab 日夜 · F6 天气"
+	hud.controls_label.text = "WASD 跑动 · 松开即停 · Q 切换树枝 / 玉米枪\nTab 日夜 · F6 天气"
 	hud.boss_panel.visible = lab_mode == 2
 	if lab_mode == 2:
 		hud.boss_health_label.text = "荒田稻草人  %d / 36" % progress.boss_hp

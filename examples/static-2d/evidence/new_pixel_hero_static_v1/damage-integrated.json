@@ -1,0 +1,13 @@
+{
+  "final_hp": 3,
+  "respawns": 1,
+  "states": [
+    "run",
+    "attack",
+    "recover",
+    "idle",
+    "hurt"
+  ],
+  "ticks": 800,
+  "trace_sha256": "4a1329f96ee5c330a000be1f3d2f7e49ad1a60fe7359a2d0601e586230023b84"
+}

@@ -21,10 +21,13 @@ func run_checks() -> void:
 	check(player.animation_names.size() == 4, "all four actual animation clips discovered")
 	var attachment = player.branch_pivot.get_parent()
 	check(attachment is BoneAttachment3D and attachment.bone_name == "RightHand", "branch attached to actual RightHand bone")
-	check(absf(player.branch_pivot.global_position.distance_to(attachment.global_position) - 0.045) < 0.001, "branch grip offset is 0.045 metre under actual skeleton scale")
+	var grip = JSON.parse_string(FileAccess.get_file_as_string("res://tests/fixtures/reference-grip-v4-r2/grip-frame.json"))
+	var center = Vector3(grip.grip_center_right_hand_local[0],grip.grip_center_right_hand_local[1],grip.grip_center_right_hand_local[2])
+	check(player.branch_pivot.position.distance_to(center) < 0.000001, "branch uses independently reviewed anatomical grip center")
 	var stick = player.branch_pivot.get_child(0)
-	check(absf(stick.rotation.x) < 0.001, "branch follows measured hand local Y axis")
-	check(absf(stick.mesh.height * stick.global_basis.get_scale().y - 0.7) < 0.01, "branch stays 0.7 metre despite skeleton scale")
+	var shaft_axis = Vector3(grip.shaft_axis_toward_tip[0],grip.shaft_axis_toward_tip[1],grip.shaft_axis_toward_tip[2])
+	check(player.branch_pivot.basis.y.distance_to(shaft_axis) < 0.000001, "long branch end follows reviewed thumb-side grip axis")
+	check(absf(stick.mesh.get_aabb().size.y * stick.global_basis.get_scale().y - 0.7) < 0.01, "reviewed tapered branch stays 0.7 metre despite skeleton scale")
 	player.set_physics_process(false)
 	var actual_length: float = player.animation_player.get_animation("attack_branch").length
 	player.attack.begin(false)
@@ -62,7 +65,7 @@ func run_checks() -> void:
 	Input.parse_input_event(walk_key)
 	for frame in 5:
 		await physics_frame
-	check(player.current_animation == "walk" and player.animation_player.current_animation == "walk", "actual walk clip selected by movement input")
+	check(player.current_animation == "run" and player.animation_player.current_animation == "run", "actual run clip selected by direction input alone")
 	var run_key := InputEventKey.new()
 	run_key.physical_keycode = KEY_SHIFT
 	run_key.keycode = KEY_SHIFT
@@ -70,7 +73,7 @@ func run_checks() -> void:
 	Input.parse_input_event(run_key)
 	for frame in 5:
 		await physics_frame
-	check(player.current_animation == "run" and player.animation_player.current_animation == "run", "actual run clip selected by Shift input")
+	check(player.current_animation == "run" and player.animation_player.current_animation == "run", "Shift preserves the existing run clip")
 	walk_key = InputEventKey.new()
 	walk_key.physical_keycode = KEY_W
 	Input.parse_input_event(walk_key)

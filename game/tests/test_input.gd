@@ -105,13 +105,13 @@ func run_checks() -> void:
 	var start: Vector3 = game.player.position
 	key_event(KEY_W, true)
 	key_event(KEY_D, true)
-	key_event(KEY_SHIFT, true)
+	
 	for frame in 30:
 		await physics_frame
 	key_event(KEY_W, false)
 	key_event(KEY_D, false)
-	key_event(KEY_SHIFT, false)
-	check(game.player.position.distance_to(start) > 1.8, "physical W D Shift events produce running movement")
+	
+	check(game.player.position.distance_to(start) > 1.35 and game.player.position.distance_to(start) < 1.60, "physical W D input alone moves at calibrated run speed")
 	paused = false
 	print("Input pipeline: %d failures" % failures)
 	game.queue_free()

@@ -1,0 +1,6 @@
+.godot/
+*.tmp
+
+# Reconstructed by ../restore_assets.py from tracked lossless pieces.
+/assets/characters/boy/normal_grip/v4/boy-closed-diagonal-surface-v4.glb
+/assets/sprint_20261002/insects/giant_corn_borer.glb

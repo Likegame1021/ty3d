@@ -1,60 +1,52 @@
-# 河南农村童年冒险
+# 风过玉米地 · ty3d
 
-当前项目设计基线：用户提供的《河南农村童年冒险》统一设计档案 v1，归档于 2026-09-27。
+本次保存的是**已恢复的原地图 R48 检查点**，另附**独立 2D 静态八向主角小样**。两者没有合并；不是新完成版，也不包含未能恢复的后续原地图候选。
 
-## 在新电脑上运行
+## 首次克隆后：离线恢复两件大素材
 
-克隆仓库后，使用 Godot 4.7.2 打开 `game/project.godot`；首次打开会自动导入资源。也可以将环境变量 `GODOT_EXE` 指向本机 Godot 可执行文件，再运行下方的 `.cmd` 启动入口。
+**必须先完成此步，再让 Godot 导入原地图。** 仓库为传输大小限制将两件大 GLB 无损拆成分块；不是删除素材，也不是替代模型。需要 Python **3.8+**（仅标准库，无联网或额外依赖），以及支持硬链接的本地文件系统（例如 NTFS、ext4、APFS；不要在 FAT/exFAT 盘直接运行）。在仓库根目录执行一次：
 
-游戏所需模型、贴图和声音均包含在仓库中，运行游戏不需要 Meshy API 密钥。Godot 缓存、本机凭据、临时日志、Blender 自动备份和含临时签名下载链接的 Meshy 响应不纳入版本控制；美术源文件、请求参数及制作记录保留。
+```bash
+python3 restore_assets.py
+```
 
-## 玉米枪专项试玩
+Windows 若命令名不同，可用 `py -3 restore_assets.py`。脚本校验所有分块和最终 SHA-256 后原子恢复以下文件；保留分块，已存在且正确的文件不重写，存在不同内容时停止而不覆盖：
 
-双击 **`Start-Corn-Gun.cmd`**，直接进入田边试枪场：鼠标瞄准，按住左键连射，右键蓄力后松开散射。按 F 切换木靶、三波清怪和稻草人挑战，R 回木靶。
+- `game/assets/characters/boy/normal_grip/v4/boy-closed-diagonal-surface-v4.glb`（16,088,172 字节）
+- `game/assets/sprint_20261002/insects/giant_corn_borer.glb`（12,474,940 字节）
 
-玉米枪已包含双手握持、后坐、枪口闪光、玉米粒弹道、命中碎粒与数字、蓄力提示和声音。原完整关卡中的玉米枪也使用这套射击与反馈。
+看到 `Assets ready` 后再按下面步骤启动。不要把 `.part` 文件直接交给 Godot。该步骤恢复的 GLB 与已验证完整源码逐字节一致，未修改游戏逻辑。要重跑恢复器安全测试：`python3 -m unittest discover -s packaging_tests -v`。
 
-- [玉米枪操作与制作范围](docs/play-corn-gun.md)
-- [玉米枪验证记录](docs/qa/corn-gun-results.md)
+## 原地图：主要入口
 
-## 当前试玩：完整玉米地首版（M2）
+用 Godot 打开 `game/project.godot`，等待首次导入完成后按 **F5**。默认入口已选为 `scenes/modular/modular_slice.tscn`。
 
-双击 **`Start-Full-Scene.cmd`**：从入口出发，经过水渠、高密玉米区与农具棚，挑战荒田稻草人，在战斗中组合玉米枪。F6 切换晴/雨/雪，Tab 切换昼夜。
+```bash
+godot --headless --path game --editor --import --quit
+godot --path game
+```
 
-- [完整场景操作与路线说明](docs/play-full.md)
-- [晴雨雪实机画面对照](docs/qa/full-scene-gallery.html)
-- [原参考、Meshy资产与实机美术对照](docs/qa/art-review.html)
-- [完整场景规格](docs/full-scene-spec.md)与[执行计划](docs/full-scene-plan.md)
-- [QA 结果与验证边界](docs/qa/full-scene-results.md)
+WASD 移动，鼠标左键挥棍，Esc 暂停。该版本仅保存地图布局；重开回入口，HP、金币和击杀不持久化。
 
-这是完整五区玩法和场景的首版。农具棚、板车、树干已接入真实 Meshy 模型（缺失树冠由 Blender 补建）；主角新增五段 Meshy 库动作。仍含程序化道具与敌人外形，整体美术尚未达到概念图完成度；正式美术精修、真人首次游玩时长和难度校准见验收记录。
+## 独立 2D 静态主角小样
 
-## 入口的小冒险（M1保留）
+单独打开 `examples/static-2d/project.godot`，再打开 `scenes/corn_route_new_pixel_hero_static_v1.tscn`，按 **F6**。
 
-双击 `Start-Adventure.cmd`：发现小鸡、找回弹珠铁盒、绕开或击退田鼠、带着铁盒到出口。见[入口试玩说明](docs/play-entry.md)和[制作规格](docs/entry-milestone-spec.md)。
+```bash
+godot --headless --path examples/static-2d --editor --import --quit
+godot --path examples/static-2d res://scenes/corn_route_new_pixel_hero_static_v1.tscn
+```
 
-## 首个验证样件（M0保留）
+WASD/方向键移动，空格或鼠标左键攻击，R 重置。五房间、八怪物；主角每方向只有一张静态图，**没有完成 RUN/攻击/受伤动画**。小样默认 F5 仍是旧试作入口，不是新静态主角。部分未使用旧候选脚本仅作为历史源码保留，不能据此认为其他候选都可独立运行。
 
-Windows 本机启动入口：双击 `Start-Validation.cmd`。工程位于 `game/`，使用本机 Godot 4.7.2；首次启动会导入资源。
+## 恢复和验证边界
 
-- [试玩说明与操作](docs/play-validation.md)
-- [团队职责与样件范围](docs/first-playable-spec.md)
-- [执行计划](docs/first-playable-plan.md)
-- [QA 实测记录](docs/qa/first-playable-results.md)
+- 原地图精确恢复链：R26 九分卷 → R37 的 606 文件 → R48 的 618 文件 → 玉米早出场/接触补丁的 622 文件；每个原始源文件 SHA-256 均匹配封存清单。13 个输入 ZIP 的 SHA-256 和 CRC 全部通过。
+- 公开包装仅调整主地图入口、净化历史工作路径及对应元数据哈希，并补充说明；没有改动游戏脚本、场景或图片像素。详见 [恢复说明](RECOVERY_NOTES.md)。
+- 本次使用 **Godot 4.6.3** 检查。原地图和小样均完成空缓存 headless 导入；原地图默认入口启动 120 帧后正常退出且无错误。
+- 公开版 2D 小样通过：136 项八向 atlas、13 项异常配置拒绝、44 项场景检查、13,011 项资源检查，以及原 PNG 的 8 个独立轮廓/531,507 像素核验。800 tick 伤害轨迹和 3,062 tick 八怪通关轨迹与封存基线逐位一致（24 次攻击、0 死亡、最终 HP 3）。以上是 headless 逻辑/资源验证，不是正常图形画面验收。
+- 原地图历史记录使用 Godot 4.7.2；本次未重新完成全图战斗、帧率、正常图形画面和全部历史测试验收。部分旧测试依赖未随恢复包保留的外部基线，不能声称整个历史测试集通过。
+- `art/`、`tools/`、`docs/` 和旧 `Start-*.cmd` 保留原仓库历史资料。旧验证/渲染脚本可能引用当前不存在的辅助脚本，**不要用它们代替以上启动方式**。
+- `.godot` 是可再生缓存，不随源码保存。引擎程序不包含在仓库中。
 
-## 设计与制作资料
-
-- [统一设计档案 v1](docs/design-baseline-v1.md)：美术方向、主角、动画、玉米地关卡、资产与制作流程。
-- [参考图索引](docs/reference-index.md)：10 张原始附件的用途、对应关系与使用边界。
-- `docs/references/`：原始参考图的项目内副本。
-- [Meshy API 本地接入](docs/meshy-api.md)：本机加密凭据的使用方法与余额验证命令。
-- [资产制作流程 v1.1](docs/asset-pipeline-v1.1.md)：Windows 优先的出图 → Meshy → Blender → Godot 工序、动画与验收规范。
-- [美术风格检查基线](docs/art-style-check.md)：参考图、生成模型和实际俯视场景的统一检查要求。
-- [M2真实Meshy任务与积分记录](art/environment/meshy/production-ledger.md)：本轮三件静态模型及五段库动作的可追溯交付。
-- [资产需求与验收卡模板](docs/templates/asset-card.md)：记录参考图、生成任务、母版、交付件与验收结果。
-
-最新文字设定优先于参考图中的旧设定。完整设计档案描述长期目标；本轮实际交付范围与验证结果以上方样件文档为准。
-
-## 新对话接续用语
-
-> 请先阅读本项目的 `docs/design-baseline-v1.md`、`docs/reference-index.md` 与 `docs/asset-pipeline-v1.1.md`，将其作为《河南农村童年冒险》的设计与制作上下文。按需查看 `docs/references/` 中的参考图。目标为 Windows 电脑优先。保留已确定方向，区分暂定内容与待补素材，不把参考图中未确认的元素直接加入正式范围。然后继续处理我本次提出的具体任务。
+素材保留既有来源与适用条款；本次恢复没有为整个工程新增 MIT、CC0 等通用授权，也不表示所有素材均可任意再分发。

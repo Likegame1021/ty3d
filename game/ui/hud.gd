@@ -50,7 +50,7 @@ func _ready() -> void:
 	bottom.add_child(bottom_column)
 	context_label = label("沿中央小路，向前找到稻草练习桩。", 19, Color("fff0c3"))
 	bottom_column.add_child(context_label)
-	bottom_column.add_child(label("WASD / 方向键 移动   ·   Shift 跑步   ·   左键 / Space 挥枝   ·   E 交互   ·   Tab 日夜   ·   R 重置   ·   Esc 帮助", 15, Color("d2d8c6")))
+	bottom_column.add_child(label("WASD / 方向键 跑动   ·   松开即停   ·   左键 / Space 挥枝   ·   E 交互   ·   Tab 日夜   ·   R 重置   ·   Esc 帮助", 15, Color("d2d8c6")))
 	asset_label = label("", 13, Color("aebfae"))
 	bottom_column.add_child(asset_label)
 	message_label = label("", 23, Color("fff0c3"))
@@ -81,7 +81,7 @@ func _ready() -> void:
 	pause_panel.add_child(pause_column)
 	pause_column.add_child(label("歇一会儿", 34, Color("fff0c3")))
 	pause_column.add_child(label("已暂停。玉米、角色和攻击一起停下。", 18, Color("d2d8c6")))
-	pause_column.add_child(label("WASD / 方向键移动，Shift 跑步。\n靠近练习桩，面向它按左键或 Space 挥枝。\n按 E 阅读练习说明；Tab 切换昼夜；R 重新开始。", 18, Color("d2d8c6")))
+	pause_column.add_child(label("WASD / 方向键直接跑动，松开即停。\n靠近练习桩，面向它按左键或 Space 挥枝。\n按 E 阅读练习说明；Tab 切换昼夜；R 重新开始。", 18, Color("d2d8c6")))
 	var button := Button.new()
 	button.text = "继续走走  ·  Esc"
 	button.custom_minimum_size.y = 46

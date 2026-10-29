@@ -1,8 +1,10 @@
 config_version=5
 
 [application]
-config/name="风过玉米地 · 玉米地冒险"
-run/main_scene="res://levels/full.tscn"
+config/use_custom_user_dir=true
+config/custom_user_dir_name="ty3d-r19-e3-opening-playtest"
+config/name="风过玉米地 · R19 E3 首遇试玩"
+run/main_scene="res://scenes/modular/modular_slice.tscn"
 
 [display]
 window/size/viewport_width=1280

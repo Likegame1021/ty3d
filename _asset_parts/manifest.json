@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "path": "game/assets/characters/boy/normal_grip/v4/boy-closed-diagonal-surface-v4.glb",
+      "size": 16088172,
+      "sha256": "153e38988dfef6cb34c005a9cccfcd6e0a03db568f5fb79dea1616fde2fbdaa3",
+      "parts": [
+        {
+          "path": "_asset_parts/153e38988dfef6cb34c005a9cccfcd6e0a03db568f5fb79dea1616fde2fbdaa3.part001",
+          "size": 6291456,
+          "sha256": "72638a71665071f8a0ec291beecff966e468da508643578003200c1cc65c9004"
+        },
+        {
+          "path": "_asset_parts/153e38988dfef6cb34c005a9cccfcd6e0a03db568f5fb79dea1616fde2fbdaa3.part002",
+          "size": 6291456,
+          "sha256": "b1968f519cf50ee9cf57a2c222c752b2825ef33e53049d8ed32e7bcec0cbff76"
+        },
+        {
+          "path": "_asset_parts/153e38988dfef6cb34c005a9cccfcd6e0a03db568f5fb79dea1616fde2fbdaa3.part003",
+          "size": 3505260,
+          "sha256": "dabfd986252fb7d2aefee3a338c700e0695e68edd50bc58482142b589c9b69a0"
+        }
+      ]
+    },
+    {
+      "path": "game/assets/sprint_20261002/insects/giant_corn_borer.glb",
+      "size": 12474940,
+      "sha256": "42e737d5405ea243a83d4b8feeb0b32ce12147647952c0c5338e00aa54e83d8b",
+      "parts": [
+        {
+          "path": "_asset_parts/42e737d5405ea243a83d4b8feeb0b32ce12147647952c0c5338e00aa54e83d8b.part001",
+          "size": 6291456,
+          "sha256": "009a3925042a34338f183abf0482694e3ffbfca5c64880c6797e956fdb3bd08e"
+        },
+        {
+          "path": "_asset_parts/42e737d5405ea243a83d4b8feeb0b32ce12147647952c0c5338e00aa54e83d8b.part002",
+          "size": 6183484,
+          "sha256": "9d4cb959768d474d8432bf6fb5fc8734504bea45ee48e641720a2192e1d37cef"
+        }
+      ]
+    }
+  ]
+}

@@ -117,7 +117,7 @@ func _ready() -> void:
 	context_label = label("", 17, Color("fff0c3"))
 	context_label.autowrap_mode = TextServer.AUTOWRAP_WORD_SMART
 	bottom_column.add_child(context_label)
-	controls_label = label("WASD 移动 · Shift 跑 · E 交互/翻栏 · F 投石\n空格/左键 挥枝 · Q 切换 · Tab 日夜 · F6 天气 · Esc 暂停", 12, Color("c4ceb9"))
+	controls_label = label("WASD 跑动 · 松开即停 · E 交互/翻栏 · F 投石\n空格/左键 挥枝 · Q 切换 · Tab 日夜 · F6 天气 · Esc 暂停", 12, Color("c4ceb9"))
 	controls_label.autowrap_mode = TextServer.AUTOWRAP_WORD_SMART
 	bottom_column.add_child(controls_label)
 	message_label = label("", 20, Color("fff0c3"))
@@ -233,7 +233,7 @@ func update_full(progress: RefCounted, context: String, weather: String, night: 
 	weapon_panel.visible = _corn_equipped
 	bottom_panel.offset_right = -322 if _corn_equipped else -20
 	message_label.offset_right = -322 if _corn_equipped else -20
-	controls_label.text = "WASD 移动 · Shift 跑 · E 交互/翻栏 · F 投石\nQ 切换 · Tab 日夜 · F6 天气 · Esc 暂停" if _corn_equipped else "WASD 移动 · Shift 跑 · E 交互/翻栏 · F 投石\n空格/左键 挥枝 · Q 切换 · Tab 日夜 · F6 天气 · Esc 暂停"
+	controls_label.text = "WASD 跑动 · 松开即停 · E 交互/翻栏 · F 投石\nQ 切换 · Tab 日夜 · F6 天气 · Esc 暂停" if _corn_equipped else "WASD 跑动 · 松开即停 · E 交互/翻栏 · F 投石\n空格/左键 挥枝 · Q 切换 · Tab 日夜 · F6 天气 · Esc 暂停"
 	if not _corn_equipped:
 		_aim_requested = false
 		corn_reticle.visible = false

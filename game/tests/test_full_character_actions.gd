@@ -16,7 +16,8 @@ func run_checks() -> void:
 	root.add_child(game)
 	await physics_frame
 	var player = game.player
-	var clips = player.animation_player.get_animation_list()
+	# Count the nine source GLB clips, excluding private derived runtime libraries.
+	var clips = player.animation_player.get_animation_library("").get_animation_list()
 	check(clips.size() == 9, "v004 GLB imports four original and five context clips")
 	var old_lengths := {"idle":4.0416667, "walk":4.2083333, "run":0.75, "attack_branch":1.5416667}
 	for key in old_lengths:

@@ -122,7 +122,7 @@ func context_text() -> String:
 	if horizontal_distance(player.position, item.position) < 1.6 and not progress.item_collected:
 		return "[ E ] 拾起弹珠铁盒" if progress.chicken_discovered else "先看看入口左侧玉米里的动静。"
 	if creature.active and creature.mode in ["chase", "windup", "lunge"]:
-		return "注意田鼠！前摇时侧移或挥枝，也可以按 Shift 跑开。"
+		return "注意田鼠！前摇时侧移或挥枝，也可以直接跑开。"
 	return ["左边的玉米在动，靠近一点看看。", "沿左侧小路往前走，留意玉米旁的小铁盒。", "中央路通向北边出口；田鼠不必击败。"][mini(progress.stage, 2)]
 
 func interaction_clear(destination: Vector3) -> bool:

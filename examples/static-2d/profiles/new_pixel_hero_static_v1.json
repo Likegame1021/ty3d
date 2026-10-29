@@ -1,0 +1,20 @@
+{
+  "art_type": "new_2d_static_eight_directions",
+  "source": "res://assets/new_pixel_hero_static_v1/hd2d-hero-eight-directions-v2.png",
+  "source_sha256": "3daffa7b35471ee21ee3750e71600fc0f03e2a75eda2c82c7051de27bf64058a",
+  "frame_count": 1,
+  "alpha_scissor_threshold": 0.5,
+  "reference_visible_height_px": 472,
+  "reference_world_height": 1.56,
+  "anchor_method": "Center of retained shoe silhouette in bottom 35 pixels, at exclusive sole bottom. Independently measured for each direction.",
+  "directions": [
+    {"name":"S", "region":[118,33,231,480], "visible_bbox":[122,37,345,509], "feet_anchor":[121,476]},
+    {"name":"SE", "region":[488,33,223,481], "visible_bbox":[492,37,707,510], "feet_anchor":[110.5,477]},
+    {"name":"E", "region":[838,33,222,480], "visible_bbox":[842,37,1056,509], "feet_anchor":[97,476]},
+    {"name":"NE", "region":[1191,33,285,481], "visible_bbox":[1195,37,1472,510], "feet_anchor":[115,477]},
+    {"name":"N", "region":[119,522,267,475], "visible_bbox":[123,526,382,993], "feet_anchor":[114.5,471]},
+    {"name":"NW", "region":[470,527,221,470], "visible_bbox":[474,531,687,993], "feet_anchor":[111,466]},
+    {"name":"W", "region":[798,524,251,473], "visible_bbox":[802,528,1045,993], "feet_anchor":[136.5,469]},
+    {"name":"SW", "region":[1137,527,282,475], "visible_bbox":[1141,531,1415,998], "feet_anchor":[162.5,471]}
+  ]
+}

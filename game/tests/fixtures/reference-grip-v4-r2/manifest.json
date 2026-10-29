@@ -1,0 +1,10 @@
+{
+  "status": "Parent approved static R2 gate at 2026-10-03T04:20:48Z; transition gate remains independent",
+  "gate": "motion-v3-work/reference-motion-review/independent/static-phase-verdict.md",
+  "mesh_sha256": "153e38988dfef6cb34c005a9cccfcd6e0a03db568f5fb79dea1616fde2fbdaa3",
+  "files": {
+    "carry-reference.json": "58e1d4df233ea26ef4f2c1d18336782165f806f5e132be3ee3243a7e35dd0737",
+    "grip-frame.json": "685fae8d9bd416828a59ee2cb99bfd8944977c56a65c5fbb122f9bf33744ebcc",
+    "attack-reference.json": "a6dd65f01263b6809392dd92763e980a53b8c8c11260fd9c85105f4a1c3e78d3"
+  }
+}

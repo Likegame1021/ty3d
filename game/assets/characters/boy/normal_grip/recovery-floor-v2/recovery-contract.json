@@ -1,0 +1,113 @@
+{
+  "status": "bounded5degree recovery-target RightHand-local delta; geometry/native gates pending",
+  "source_animation_sha256": "f46ae0ae599d026d3ffcb0f9bed897f047e29bd7815c26b0b2b5bff2c65a148d",
+  "timing": {
+    "source_arm_exact_until": 0.7,
+    "blend_to_run_shape": 1.0,
+    "hold_until": 1.5416666269302368
+  },
+  "curve": "Original source arms exact through.70; smoothstep shortest-quaternion slerp CURRENT source local rotations to this fixed recovery target over.70\u20131.00, then hold. RightArm/RightForeArm targets equal accepted RUN shape; RightHand adds only the explicit5degree local delta. Source local origins/scales unchanged.",
+  "target_local_transforms": {
+    "RightArm": [
+      [
+        0.29459345676824794,
+        -0.9410599376155947,
+        0.16619554562800928
+      ],
+      [
+        0.9498973331062781,
+        0.2693575749671276,
+        -0.15856047854524288
+      ],
+      [
+        0.1044489023660405,
+        0.20457952862529316,
+        0.9732613416380349
+      ],
+      [
+        4.377511686470825e-10,
+        0.08453749865293503,
+        -5.7561901911640234e-08
+      ]
+    ],
+    "RightForeArm": [
+      [
+        0.3646482427910338,
+        0.7182670472269955,
+        -0.5925572741560801
+      ],
+      [
+        0.022511333646579156,
+        0.6293884067523631,
+        0.7767648213361719
+      ],
+      [
+        0.9308731637658813,
+        -0.29658524950439574,
+        0.21333626312987938
+      ],
+      [
+        1.4435499906539917e-07,
+        0.12378118932247162,
+        -8.253846317529678e-08
+      ]
+    ],
+    "RightHand": [
+      [
+        0.9562843240063665,
+        0.2629225120356312,
+        0.12803056031017046
+      ],
+      [
+        -0.2706883910042599,
+        0.9615049923783597,
+        0.0472832142993631
+      ],
+      [
+        -0.11067021838715546,
+        -0.07987258292942469,
+        0.9906425942616804
+      ],
+      [
+        -2.7008354663848877e-08,
+        0.14545723795890808,
+        9.058858267962933e-07
+      ]
+    ]
+  },
+  "input_arm_sha256": "d7094fb8f495be1b09c1d87e59eb7edbec39a346e1ca44f23b5944ff79a6b969",
+  "native_reference_times": [
+    0.85,
+    1.0,
+    1.4083333333333334
+  ],
+  "limitations": [
+    "Recovery-only. Original source attack through.70, ordinary RUN and idle carry unchanged.",
+    "Full-tail actual physics root and visible terrain test still required after reference."
+  ],
+  "hand_delta": {
+    "composition": "postmultiply original RightHand target local basis by rotation about this hand-local axis; keep its origin/scale and all other targets unchanged",
+    "axis_hand_local": [
+      -0.30815911667599366,
+      0.04286298202142793,
+      -0.9503687303261309
+    ],
+    "axis_world_at_original_worst_1_4": [
+      -0.7439230533843473,
+      0.0,
+      -0.6682652846312679
+    ],
+    "angle_degrees": 5.0,
+    "quaternion_xyzw": [
+      -0.01344171188044994,
+      0.0018696570164260975,
+      -0.041454501787998047,
+      0.9990482215818578
+    ],
+    "reason": "raise branch tip over demonstrated visual path and waymark heights; original reference minimum1.366mm at1.4"
+  },
+  "canonical_clearance_requirement_m": 0.035,
+  "verified_sampled_minimum_floor_m": 0.04388676177910529,
+  "maximum_actual_hand_rotation_delta_degrees_over_tail": 5.000000000000019,
+  "upper_arm_forearm_targets_exactly_unchanged": true
+}

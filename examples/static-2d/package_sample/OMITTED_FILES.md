@@ -1,0 +1,489 @@
+# Omitted source entries
+
+These files are absent only from this new sample. The original ZIP and live project are unchanged.
+
+Full file-by-file sizes and SHA256 values are in source-file-manifest.json.
+
+- `README.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `README_BAKED_DISPLAY_RELEASE.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `README_BEND_RELEASE.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `README_CONFIGURED_DISPLAY_RELEASE.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `README_DUAL_HURT_RELEASE.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `README_HERO_HURT_RELEASE.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `README_MONSTER_DISPLAY_RELEASE.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `README_MONSTER_STRIKE_RELEASE.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `README_MOVING_ATTACK_RELEASE.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `README_MULTI_CLIP_RELEASE.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `README_ROUTE_RELEASE.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `assets/baked_run_probe/E_run_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/E_run_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/E_run_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/E_run_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/E_run_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/E_run_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/E_run_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/E_run_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/NE_run_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/NE_run_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/NE_run_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/NE_run_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/NE_run_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/NE_run_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/NE_run_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/NE_run_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/NW_run_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/NW_run_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/NW_run_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/NW_run_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/NW_run_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/NW_run_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/NW_run_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/NW_run_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/N_run_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/N_run_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/N_run_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/N_run_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/N_run_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/N_run_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/N_run_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/N_run_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/SE_run_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/SE_run_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/SE_run_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/SE_run_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/SE_run_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/SE_run_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/SE_run_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/SE_run_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/SW_run_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/SW_run_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/SW_run_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/SW_run_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/SW_run_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/SW_run_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/SW_run_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/SW_run_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/S_run_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/S_run_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/S_run_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/S_run_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/S_run_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/S_run_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/S_run_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/S_run_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/W_run_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/W_run_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/W_run_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/W_run_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/W_run_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/W_run_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/W_run_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/W_run_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/copy-provenance.json`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/manifest.json`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/baked_run_probe/sprite-calibration.json`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/candidates/hero_front_isolated_v1.json`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/candidates/hero_front_isolated_v1.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/E_run_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/E_run_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/E_run_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/E_run_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/E_run_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/E_run_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/E_run_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/E_run_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/NE_run_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/NE_run_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/NE_run_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/NE_run_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/NE_run_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/NE_run_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/NE_run_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/NE_run_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/NW_run_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/NW_run_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/NW_run_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/NW_run_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/NW_run_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/NW_run_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/NW_run_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/NW_run_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/N_run_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/N_run_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/N_run_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/N_run_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/N_run_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/N_run_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/N_run_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/N_run_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/README.txt`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/SE_run_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/SE_run_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/SE_run_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/SE_run_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/SE_run_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/SE_run_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/SE_run_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/SE_run_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/SW_run_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/SW_run_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/SW_run_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/SW_run_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/SW_run_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/SW_run_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/SW_run_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/SW_run_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/S_run_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/S_run_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/S_run_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/S_run_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/S_run_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/S_run_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/S_run_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/S_run_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/W_run_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/W_run_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/W_run_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/W_run_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/W_run_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/W_run_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/W_run_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/W_run_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/asset-hashes.json`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/copy-provenance.json`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/manifest.json`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/clothing_v7_run/sprite-calibration.json`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/fx/lifecycle_test.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `assets/fx/lifecycle_test.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `assets/hero_breath_idle_v1/E_idle_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/E_idle_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/E_idle_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/E_idle_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/E_idle_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/E_idle_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/E_idle_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/E_idle_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/NE_idle_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/NE_idle_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/NE_idle_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/NE_idle_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/NE_idle_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/NE_idle_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/NE_idle_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/NE_idle_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/NW_idle_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/NW_idle_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/NW_idle_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/NW_idle_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/NW_idle_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/NW_idle_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/NW_idle_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/NW_idle_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/N_idle_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/N_idle_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/N_idle_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/N_idle_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/N_idle_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/N_idle_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/N_idle_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/N_idle_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/SE_idle_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/SE_idle_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/SE_idle_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/SE_idle_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/SE_idle_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/SE_idle_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/SE_idle_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/SE_idle_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/SW_idle_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/SW_idle_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/SW_idle_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/SW_idle_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/SW_idle_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/SW_idle_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/SW_idle_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/SW_idle_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/S_idle_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/S_idle_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/S_idle_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/S_idle_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/S_idle_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/S_idle_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/S_idle_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/S_idle_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/W_idle_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/W_idle_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/W_idle_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/W_idle_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/W_idle_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/W_idle_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/W_idle_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/W_idle_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/asset-hashes.json`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/manifest.json`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_breath_idle_v1/sprite-calibration.json`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/E_hurt_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/E_hurt_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/E_hurt_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/E_hurt_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/E_hurt_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/E_hurt_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/E_hurt_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/E_hurt_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/NE_hurt_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/NE_hurt_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/NE_hurt_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/NE_hurt_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/NE_hurt_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/NE_hurt_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/NE_hurt_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/NE_hurt_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/NW_hurt_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/NW_hurt_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/NW_hurt_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/NW_hurt_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/NW_hurt_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/NW_hurt_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/NW_hurt_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/NW_hurt_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/N_hurt_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/N_hurt_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/N_hurt_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/N_hurt_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/N_hurt_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/N_hurt_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/N_hurt_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/N_hurt_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/SE_hurt_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/SE_hurt_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/SE_hurt_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/SE_hurt_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/SE_hurt_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/SE_hurt_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/SE_hurt_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/SE_hurt_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/SW_hurt_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/SW_hurt_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/SW_hurt_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/SW_hurt_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/SW_hurt_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/SW_hurt_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/SW_hurt_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/SW_hurt_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/S_hurt_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/S_hurt_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/S_hurt_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/S_hurt_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/S_hurt_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/S_hurt_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/S_hurt_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/S_hurt_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/W_hurt_00.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/W_hurt_01.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/W_hurt_02.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/W_hurt_03.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/W_hurt_04.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/W_hurt_05.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/W_hurt_06.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/W_hurt_07.png`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/asset-hashes.json`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/manifest.json`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `assets/hero_hurt_v1/sprite-calibration.json`: Legacy or alternate hero display assets; neither new scene nor unchanged default main uses them.
+- `docs/BAKED_DISPLAY_INTEGRATION.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/CONFIGURED_DISPLAY_QA.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/CONFIGURED_RUN_DISPLAY.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/CORN_ROUTE_BEND.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/CORN_ROUTE_CANDIDATE.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/DUAL_HURT_EVENT_V1.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/DUAL_HURT_INDEPENDENT_QA.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/FRONT_CANDIDATE.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/HERO_EVENT_INDEPENDENT_QA.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/HERO_EVENT_RESOURCE_QA.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/HERO_HURT_EVENT_V1.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/MONSTER_IDLE_DISPLAY_CANDIDATE.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/MONSTER_IDLE_DISPLAY_INTERFACE.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/MONSTER_RESOURCE_QA.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/MONSTER_STRIKE_DISPLAY_V1.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/MOVING_ATTACK_CANDIDATE.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/MULTI_CLIP_DISPLAY_V1.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/MULTI_CLIP_INDEPENDENT_QA.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/MULTI_CLIP_RESOURCE_QA.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/NORMAL_AI_STRATEGY.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/PASSIVE_V2_QA.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/REFINED_SPRITE_ADAPTER.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/STRIKE_INDEPENDENT_QA.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/STRIKE_LIFECYCLE_QA.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/STRIKE_RESOURCE_QA.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `docs/V7_RUN_DISPLAY.md`: Full-archive or other-candidate documentation; sample-specific instructions supplied separately.
+- `profiles/clothing_v7_run.json`: Profile for omitted optional scene; new hero overrides both inherited profile paths.
+- `profiles/hero_breath_run_v1.json`: Profile for omitted optional scene; new hero overrides both inherited profile paths.
+- `profiles/hero_event_hurt_v1.json`: Profile for omitted optional scene; new hero overrides both inherited profile paths.
+- `profiles/legacy_run_v2.json`: Profile for omitted optional scene; new hero overrides both inherited profile paths.
+- `profiles/mist_monster_v002_idle.json`: Profile for omitted optional scene; new hero overrides both inherited profile paths.
+- `profiles/monster_event_hurt_v1.json`: Profile for omitted optional scene; new hero overrides both inherited profile paths.
+- `profiles/monster_idle_move_v1.json`: Profile for omitted optional scene; new hero overrides both inherited profile paths.
+- `run_baked_integration_tests.sh`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `run_baked_profile_tests.sh`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `run_baked_v7_tests.sh`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `run_corn_bend_tests.sh`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `run_corn_route_tests.sh`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `run_dual_hurt_display_tests.sh`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `run_event_clip_display_tests.sh`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `run_monster_display_tests.sh`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `run_monster_interface_tests.sh`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `run_moving_attack_tests.sh`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `run_multi_clip_display_tests.sh`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `run_multi_clip_interface_tests.sh`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `run_new_pixel_hero_static_tests.sh`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `run_strike_display_tests.sh`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `run_tests.sh`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `scenes/corn_route_baked_display_candidate.tscn`: Other opt-in scene, outside this static-hero sample.
+- `scenes/corn_route_bend_candidate.tscn`: Other opt-in scene, outside this static-hero sample.
+- `scenes/corn_route_candidate.tscn`: Other opt-in scene, outside this static-hero sample.
+- `scenes/corn_route_clothing_v7_run_display.tscn`: Other opt-in scene, outside this static-hero sample.
+- `scenes/corn_route_configured_display_candidate.tscn`: Other opt-in scene, outside this static-hero sample.
+- `scenes/corn_route_dual_hurt_v1_candidate.tscn`: Other opt-in scene, outside this static-hero sample.
+- `scenes/corn_route_hero_hurt_v1_candidate.tscn`: Other opt-in scene, outside this static-hero sample.
+- `scenes/corn_route_monster_idle_display_candidate.tscn`: Other opt-in scene, outside this static-hero sample.
+- `scenes/corn_route_monster_strike_v1_candidate.tscn`: Other opt-in scene, outside this static-hero sample.
+- `scenes/corn_route_moving_attack_candidate.tscn`: Other opt-in scene, outside this static-hero sample.
+- `scenes/corn_route_multi_clip_v1_candidate.tscn`: Other opt-in scene, outside this static-hero sample.
+- `scenes/front_candidate_preview.tscn`: Other opt-in scene, outside this static-hero sample.
+- `tests/baked_config/qa_binary_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_config/qa_binary_trace.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_config/test_damage_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_config/test_damage_trace.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_config/test_existing_rule_boundaries.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_config/test_existing_rule_boundaries.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_config/test_gameplay_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_config/test_gameplay_trace.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_config/test_metadata_rejection.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_config/test_profile.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_config/test_profile.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_config/test_profile_builder.py`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_integration/qa_binary_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_integration/qa_display_independent.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_integration/test_contract.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_integration/test_contract.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_integration/test_damage_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_integration/test_gameplay_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_integration/test_scene_contract.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_v7/qa_binary_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_v7/qa_binary_trace.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_v7/test_damage_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_v7/test_damage_trace.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_v7/test_existing_rule_boundaries.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_v7/test_existing_rule_boundaries.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_v7/test_profile.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_v7/test_profile.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baked_v7/test_scene_contract.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/baselines/actor_trace_v1.json`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/capture_trial.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/capture_trial.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route/test_combat_loop.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route/test_combat_loop.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route/test_digital_ai_strategy.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route/test_layout.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route/test_layout.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route/test_live_states.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route/test_live_states.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route/test_normal_ai_strategy.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route/test_props.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route/test_props.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route/test_runtime.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route/test_runtime.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route/test_traversal.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route/test_traversal.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route_bend/qa_independent.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route_bend/test_corner_collision.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route_bend/test_digital_strategy.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route_bend/test_digital_strategy.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route_bend/test_layout.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route_bend/test_layout.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route_bend/test_modules.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route_bend/test_modules.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route_bend/test_runtime.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/corn_route_bend/test_runtime.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/dual_hurt_display_v1/qa_actual_event_frames.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/dual_hurt_display_v1/qa_live_monster_hurt.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/dual_hurt_display_v1/test_damage_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/dual_hurt_display_v1/test_enemy_event.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/dual_hurt_display_v1/test_gameplay_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/event_clip_display_v1/test_actor_event.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/event_clip_display_v1/test_damage_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/event_clip_display_v1/test_event_resource.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/event_clip_display_v1/test_event_sampling.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/event_clip_display_v1/test_gameplay_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/event_clip_display_v1/test_profile.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/event_clip_display_v1/test_profile_types.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/fixtures/actor_v1.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/fixtures/actor_v1.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/qa_camera_and_passivity.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/test_damage_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/test_damage_trace.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/test_decoded_variation.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/test_enemy_boundary.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/test_enemy_boundary.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/test_factory.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/test_factory.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/test_gameplay_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/test_gameplay_trace.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/test_metadata.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/test_metadata.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/test_passive_interface.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/test_passive_interface.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/test_real_binding.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/test_real_binding.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/test_source_import_contract.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/test_source_metadata.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/monster_idle_display/test_source_metadata.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/moving_attack/qa_independent.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/moving_attack/qa_live_strike_position.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/moving_attack/test_corner_collision.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/moving_attack/test_digital_strategy.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/moving_attack/test_physical_movement.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/moving_attack/test_rules.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/multi_clip_display_v1/qa_actual_camera_phase.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/multi_clip_display_v1/test_actor_boundary.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/multi_clip_display_v1/test_damage_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/multi_clip_display_v1/test_factory.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/multi_clip_display_v1/test_gameplay_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/multi_clip_display_v1/test_profile_atomicity.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/multi_clip_display_v1/test_real_binding.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/multi_clip_display_v1/test_state_selection.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/multi_clip_display_v1/test_verified_clip.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/qa_actor_runtime.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/qa_actor_runtime.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/qa_atlas.py`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/qa_behavior_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/qa_behavior_trace.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/qa_passive_visual.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/qa_passive_visual.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/qa_world_runtime.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/qa_world_runtime.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/strike_display_v1/qa_actual_strike_frames.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/strike_display_v1/qa_coarse_monster_strike.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/strike_display_v1/qa_controlled_rejected_strikes.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/strike_display_v1/qa_live_monster_strike.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/strike_display_v1/test_actual_profile.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/strike_display_v1/test_damage_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/strike_display_v1/test_enemy_strike.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/strike_display_v1/test_gameplay_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/strike_display_v1/test_peak_metadata.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/strike_display_v1/test_profile_types.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/strike_display_v1/test_strike_sampling.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/test_actor_logic.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/test_actor_logic.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/test_front_candidate.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/test_front_candidate.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/test_pixel_actor_visual.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/test_pixel_actor_visual.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/test_pixel_sprite_profile.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/test_pixel_sprite_profile.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/test_visual_refactor_trace.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/test_visual_refactor_trace.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/test_world.gd`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tests/test_world.gd.uid`: Other-scene or full-archive test/runner; sample runner covers retained scene without absent-baseline rerun.
+- `tools/assetgen/generate_actors.py`: Asset generation tool; not a runtime dependency.
+- `tools/assetgen/validate_actors.py`: Asset generation tool; not a runtime dependency.
+- `tools/create_baked_profile.py`: Asset generation tool; not a runtime dependency.

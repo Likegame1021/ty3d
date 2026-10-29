@@ -1,0 +1,16 @@
+[
+  {
+    "file": "farm-well.glb",
+    "source": "ty3d-cornfield/game/assets/environment/blender/cornfield_batch_v001/farm-well.glb",
+    "sha256": "c23e755cbf43b1a4d5ad7653074216fa4d794a8248ab13e945ddf6611193d115",
+    "byte_identical": true,
+    "usage": "decorative only, outside tested walkable route"
+  },
+  {
+    "file": "grain-sack-stack.glb",
+    "source": "ty3d-cornfield/game/assets/environment/blender/cornfield_batch_v001/grain-sack-stack.glb",
+    "sha256": "6f45c0954790f86a8c9788e67fe6eb4d5fcc8184f98a0524b49730bfabd694b0",
+    "byte_identical": true,
+    "usage": "decorative only, outside tested walkable route"
+  }
+]

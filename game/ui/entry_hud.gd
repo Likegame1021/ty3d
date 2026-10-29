@@ -52,7 +52,7 @@ func _ready() -> void:
 	bottom.add_child(bottom_column)
 	context_label = label("", 18, Color("fff0c3"))
 	bottom_column.add_child(context_label)
-	bottom_column.add_child(label("WASD / 方向键 移动   ·   Shift 跑   ·   左键 / Space 挥枝   ·   E 拾取 / 出口   ·   Tab 日夜   ·   R 重试   ·   Esc 暂停", 14, Color("c2ceb9")))
+	bottom_column.add_child(label("WASD / 方向键 跑动   ·   松开即停   ·   左键 / Space 挥枝   ·   E 拾取 / 出口   ·   Tab 日夜   ·   R 重试   ·   Esc 暂停", 14, Color("c2ceb9")))
 	message_label = label("", 21, Color("fff0c3"))
 	root.add_child(message_label)
 	message_label.set_anchors_and_offsets_preset(Control.PRESET_CENTER_BOTTOM)

@@ -1,0 +1,101 @@
+{
+  "diameter_m": 0.026,
+  "obliquity_degrees": 15,
+  "grip_center_right_hand_local": [
+    0.0029717474010842767,
+    0.037727813205259066,
+    0.02724100150310816
+  ],
+  "axis_thumbward": [
+    0.9245428529976064,
+    0.24890629657859947,
+    -0.2885587782317019
+  ],
+  "finger_forward_tangent": [
+    -0.31220750553103827,
+    0.9289309451551407,
+    -0.19903208943098533
+  ],
+  "palm_outward_normal": [
+    0.21851083831502036,
+    0.2741039121514016,
+    0.9365468802372703
+  ],
+  "matrix_right_hand_to_mesh": [
+    [
+      0.024549035020321967,
+      -0.9819887637641789,
+      0.18733489030929346,
+      -0.3696201384904455
+    ],
+    [
+      -0.18733380724298027,
+      -0.18859052973715396,
+      -0.9640223777589101,
+      0.7581936884828708
+    ],
+    [
+      0.9819891891163569,
+      -0.01142834067408754,
+      -0.18858961597101148,
+      0.013906631329487495
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "shaft_axis_toward_tip": [
+    0.9245428529976064,
+    0.24890629657859947,
+    -0.2885587782317019
+  ],
+  "radius_profile": [
+    [
+      -0.07,
+      0.013
+    ],
+    [
+      0.08,
+      0.013
+    ],
+    [
+      0.35,
+      0.0105
+    ],
+    [
+      0.63,
+      0.0075
+    ]
+  ],
+  "radial_segments": 48,
+  "radius_profile_interpolation": "linear between samples; constant through hand contact zone",
+  "status": "normal thumb-side long-end candidate; unchanged axis line/center/26mm radius",
+  "length_m": 0.7,
+  "butt_offset_m": 0.07,
+  "calibration_space": "RightHand-local meters",
+  "source_sha256": "2a8d287a85f6738f72c099a0c796bec52234d746fbb0a8c5ce0bcba9bd32b282",
+  "basis_source": "Clean hand retained; rejected jagged source mask replaced by bounded distal wrist transition",
+  "geometry_note": "Only distal wrist triangle strip replaced; all original source vertex positions, skeleton, rest and animations retained.",
+  "shared_profile_contact_audit": "shared_profile_contact.json",
+  "wrist_scope_file": "wrist_transition_scope.json",
+  "weapon_basis_rows": [
+    [
+      0.31220750553103827,
+      0.9245428529976064,
+      0.21851083831502036
+    ],
+    [
+      -0.9289309451551407,
+      0.24890629657859947,
+      0.2741039121514016
+    ],
+    [
+      0.19903208943098533,
+      -0.2885587782317019,
+      0.9365468802372703
+    ]
+  ]
+}

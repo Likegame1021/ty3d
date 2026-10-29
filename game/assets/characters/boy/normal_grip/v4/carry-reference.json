@@ -1,0 +1,107 @@
+{
+  "version": "closed-v4-motion-reference-v2",
+  "coordinate_convention": "+X character left; +Y up; +Z forward. Quaternions XYZW, normalized, shortest-path slerp.",
+  "anchor_bone": "Spine",
+  "anchor_index": 11,
+  "actual_parent_bone": "RightShoulder",
+  "actual_parent_index": 20,
+  "transport_formula": "Q_target_global(bone) = Q_live_global(Spine) * inverse(Q_reference_global(Spine)) * Q_reference_global(bone)",
+  "records": [
+    {
+      "name": "idle",
+      "reference_chest_quaternion_xyzw": [
+        0.18556636319557174,
+        -0.1872155574391728,
+        0.04116712977149912,
+        0.963753457752285
+      ],
+      "global_rotation_quaternions_xyzw": {
+        "RightArm": [
+          0.7852899061766159,
+          -0.16297014044283115,
+          0.5972861394175628,
+          0.003124778524836089
+        ],
+        "RightForeArm": [
+          0.5831808235158328,
+          0.12592588485476527,
+          0.7473748671636912,
+          0.29235869499468375
+        ],
+        "RightHand": [
+          0.6622065301291266,
+          0.15167202743323652,
+          0.6938183559831163,
+          0.23894391904695902
+        ]
+      },
+      "upper_chest_quaternion_xyzw": [
+        0.8613582532502968,
+        -0.07796994400573364,
+        0.45873123270338734,
+        0.20383400975247265
+      ],
+      "forearm_local_quaternion_xyzw": [
+        -0.03075044856612841,
+        0.28661934473729306,
+        -0.36621580233837536,
+        0.8847540603201584
+      ],
+      "wrist_local_quaternion_xyzw": [
+        0.08024049643131162,
+        -0.07604154570659435,
+        0.019199874761614742,
+        0.9936853178286107
+      ],
+      "extra_elbow_flexion_degrees": 0.0
+    },
+    {
+      "name": "run",
+      "reference_chest_quaternion_xyzw": [
+        0.18556636319557174,
+        -0.1872155574391728,
+        0.04116712977149912,
+        0.963753457752285
+      ],
+      "global_rotation_quaternions_xyzw": {
+        "RightArm": [
+          0.7852899061766159,
+          -0.16297014044283115,
+          0.5972861394175628,
+          0.003124778524836089
+        ],
+        "RightForeArm": [
+          0.5672226354078201,
+          0.23981182157892092,
+          0.6891566110533622,
+          0.38185329323373873
+        ],
+        "RightHand": [
+          0.6512897934369035,
+          0.25366843652213295,
+          0.6297612359258492,
+          0.33893172616690687
+        ]
+      },
+      "upper_chest_quaternion_xyzw": [
+        0.8613582532502968,
+        -0.07796994400573364,
+        0.45873123270338734,
+        0.20383400975247265
+      ],
+      "forearm_local_quaternion_xyzw": [
+        -0.042544864918799025,
+        0.2653735559990326,
+        -0.5066843729835215,
+        0.8191689425385738
+      ],
+      "wrist_local_quaternion_xyzw": [
+        0.08024049643131162,
+        -0.07604154570659435,
+        0.019199874761614742,
+        0.9936853178286107
+      ],
+      "extra_elbow_flexion_degrees": 18.0
+    }
+  ]
+}

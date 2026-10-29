@@ -7,6 +7,9 @@ const MAX_EFFECTS := 72
 const MAX_SHOT_VOICES := 2
 const MAX_IMPACT_VOICES := 6
 const MAX_VOICES := MAX_SHOT_VOICES + MAX_IMPACT_VOICES + 1
+static var _playback_refs: Dictionary = {}
+static var _owned_shutdown_busy := false
+var _shutdown_draining := false
 var _effects: Array[Dictionary] = []
 var _voices: Array[AudioStreamPlayer3D] = []
 var _shot_voices: Array[AudioStreamPlayer3D] = []
@@ -28,6 +31,8 @@ var _charge_clock := 0.0
 var _rng := RandomNumberGenerator.new()
 
 func _ready() -> void:
+	add_to_group("corn_audio_fx")
+	_prune_playbacks()
 	process_mode = Node.PROCESS_MODE_PAUSABLE
 	_rng.seed = 742198
 	_sphere = SphereMesh.new()
@@ -156,6 +161,8 @@ func damage_number(at: Vector3, amount: int, charged: bool) -> void:
 	effect["origin"] = effect.node.global_position
 
 func set_charge(at: Vector3, ratio: float) -> void:
+	if _shutdown_draining and ratio > 0.0:
+		return
 	_charge_ratio = clampf(ratio, 0.0, 1.0)
 	if _charge_ratio <= 0.001:
 		if is_instance_valid(_charge_root):
@@ -177,17 +184,17 @@ func set_charge(at: Vector3, ratio: float) -> void:
 		_charge_audio = _new_audio()
 		_charge_audio.stream = _charge_sound
 		_charge_audio.volume_db = -22
-		# The silent Dummy backend can retain queued playback until its next mix,
-		# beyond an immediate headless test exit. Keep nodes/samples testable,
-		# but only start playback when an actual audio output backend is present.
-		if AudioServer.get_driver_name() != "Dummy":
-			_charge_audio.play()
+		# Keep playback lifecycle identical on silent/headless and audible drivers.
+		# clear_effects stops and detaches streams before freeing their nodes.
+		_charge_audio.play()
+		_remember_playback(_charge_audio)
 	_charge_root.global_position = at
 	_charge_audio.global_position = at
 	_charge_audio.pitch_scale = 0.85 + _charge_ratio * 0.65
 	_charge_audio.volume_db = -24.0 + _charge_ratio * 7.0
 
 func clear_effects() -> void:
+	_prune_playbacks()
 	# Free synchronously: a retry can immediately re-arm without stale visuals/sound.
 	for child in get_children():
 		if child is AudioStreamPlayer3D:
@@ -205,6 +212,7 @@ func clear_effects() -> void:
 	_charge_clock = 0.0
 
 func _process(delta: float) -> void:
+	_prune_playbacks()
 	for index in range(_effects.size() - 1, -1, -1):
 		var effect: Dictionary = _effects[index]
 		effect.age += delta
@@ -253,6 +261,9 @@ func _new_audio() -> AudioStreamPlayer3D:
 	return voice
 
 func _play(stream: AudioStreamWAV, at: Vector3, volume: float, pitch: float, muzzle: bool = false) -> void:
+	if _shutdown_draining:
+		return
+	_prune_playbacks()
 	var pool: Array[AudioStreamPlayer3D] = _shot_voices if muzzle else _voices
 	var limit := MAX_SHOT_VOICES if muzzle else MAX_IMPACT_VOICES
 	if pool.size() < limit:
@@ -268,8 +279,8 @@ func _play(stream: AudioStreamWAV, at: Vector3, volume: float, pitch: float, muz
 	voice.stream = stream
 	voice.volume_db = volume
 	voice.pitch_scale = pitch
-	if AudioServer.get_driver_name() != "Dummy":
-		voice.play()
+	voice.play()
+	_remember_playback(voice)
 
 func _notification(what: int) -> void:
 	if what == NOTIFICATION_PAUSED or what == NOTIFICATION_UNPAUSED:
@@ -323,3 +334,68 @@ func _synthesize(kind: int, duration: float) -> AudioStreamWAV:
 		stream.loop_begin = 0
 		stream.loop_end = count
 	return stream
+
+# Weak history includes replaced and already-freed voices: AudioServer can own
+# their playback until a later mix/update even after the scene nodes are gone.
+static func _remember_playback(voice: AudioStreamPlayer3D) -> void:
+	var playback := voice.get_stream_playback()
+	if playback != null:
+		_playback_refs[playback.get_instance_id()] = weakref(playback)
+
+static func _prune_playbacks() -> void:
+	for id in _playback_refs.keys():
+		if _playback_refs[id].get_ref() == null:
+			_playback_refs.erase(id)
+
+static func await_owned_shutdown(tree: SceneTree, timeout_seconds: float = 2.0) -> bool:
+	if _owned_shutdown_busy:
+		return false
+	_owned_shutdown_busy = true
+	var effects: Array[Dictionary] = []
+	var voices: Array[Dictionary] = []
+	# Snapshot every mode before an override can propagate pause notifications.
+	for fx in tree.get_nodes_in_group("corn_audio_fx"):
+		effects.append({"node":fx,"mode":fx.process_mode,"draining":fx._shutdown_draining})
+		for child in fx.get_children():
+			if child is AudioStreamPlayer3D:
+				voices.append({"node":child,"mode":child.process_mode,"paused":child.stream_paused})
+	for state in effects:
+		state.node.set_charge(Vector3.ZERO,0.0)
+		state.node._shutdown_draining = true
+		state.node.process_mode = Node.PROCESS_MODE_ALWAYS
+	for state in voices:
+		if is_instance_valid(state.node):
+			state.node.process_mode = Node.PROCESS_MODE_ALWAYS
+			state.node.stream_paused = false
+	var deadline := Time.get_ticks_usec()+int(maxf(0.0,timeout_seconds)*1000000.0)
+	var tails_released := false
+	var complete := false
+	while true:
+		var playing := false
+		for state in voices:
+			# The server can stop before the node emits finished and drops its playback.
+			if is_instance_valid(state.node) and (state.node.playing or state.node.has_stream_playback()):
+				playing = true
+		if not playing and not tails_released:
+			for state in effects:
+				if is_instance_valid(state.node):
+					state.node.clear_effects()
+			tails_released = true
+		_prune_playbacks()
+		if tails_released and _playback_refs.is_empty():
+			complete = true
+			break
+		if Time.get_ticks_usec() >= deadline:
+			break
+		# No strong playback resource is retained across this await.
+		await tree.process_frame
+	for state in effects:
+		if is_instance_valid(state.node):
+			state.node._shutdown_draining = state.draining
+			state.node.process_mode = state.mode
+	for state in voices:
+		if is_instance_valid(state.node):
+			state.node.process_mode = state.mode
+			state.node.stream_paused = state.paused
+	_owned_shutdown_busy = false
+	return complete

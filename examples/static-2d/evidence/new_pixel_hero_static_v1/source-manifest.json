@@ -1,0 +1,33 @@
+{
+  "version": "new_2d_static_hero_v1",
+  "baseline_archive": "corn-route-monster-strike-v1-20261010-0041.zip",
+  "baseline_sha256": "361fcf836309eee846ebd4d81c82eff167f17f0688fdc29c9c7b6d006be8c7af",
+  "baseline_file_count": 837,
+  "all_baseline_files_unchanged": true,
+  "source_image_sha256": "3daffa7b35471ee21ee3750e71600fc0f03e2a75eda2c82c7051de27bf64058a",
+  "new_files_sha256": {
+    "README_NEW_PIXEL_HERO_STATIC_V1.md": "64200f1ec5f3959b60f2cfd3bbbddbc58ca63df3a296958e015ffce7a8737711",
+    "assets/new_pixel_hero_static_v1/hd2d-hero-eight-directions-v2.png": "3daffa7b35471ee21ee3750e71600fc0f03e2a75eda2c82c7051de27bf64058a",
+    "assets/new_pixel_hero_static_v1/hd2d-hero-eight-directions-v2.png.import": "f63cb391040457a3761bb466c8ae4774a5908116659732e544acb3dcff9c8c09",
+    "profiles/new_pixel_hero_static_v1.json": "4071c18e749601f8b225ce43ed808a8e0ffad2ab8505c448e557366fe68c30c3",
+    "run_new_pixel_hero_static_tests.sh": "79f5b91c4a078e780b5d76cf023f2fab794c90d6fe5a0aa5cd023f7fbb00aa38",
+    "run_new_pixel_hero_static_v1.sh": "77642880ba1c0400a3ed2e32cb8cdff5fdf04c5839c19bacaa6a4cd643ba85e8",
+    "scenes/corn_route_new_pixel_hero_static_v1.tscn": "63b5894c9b4805b94a533c5de34176582e7bc5ac4bdc238efb8c1842440a1abb",
+    "scripts/new_pixel_hero_static_v1/atlas_visual.gd": "1c63101e00f5e634de30d4490cdffa85bd4c7e2c15b2967d10573ad41bab10be",
+    "scripts/new_pixel_hero_static_v1/atlas_visual.gd.uid": "bdd2fb81710ed57536096a725ad023158149cb3824b5d82de936cd7762c952c5",
+    "scripts/new_pixel_hero_static_v1/candidate.gd": "e1129de42500765511ac08e7dd5b89a338a337ce4ab0a24a80960571cf8d1735",
+    "scripts/new_pixel_hero_static_v1/candidate.gd.uid": "f16e57a2f26d54fd9c5ea0fdd05b360ca5a0160caeea80e9c8675c50f6fbb11d",
+    "scripts/new_pixel_hero_static_v1/hero.gd": "096088852bbd645e0737dc153e75921915df3f5600d00468692116c6ad45f30f",
+    "scripts/new_pixel_hero_static_v1/hero.gd.uid": "55fb6aa3f2e652d4e44a287cae22b224d74cc2fc3d3f1e5f035b68e49a44a70d",
+    "tests/new_pixel_hero_static_v1/test_candidate.gd": "65f9fd7063ae7939372cb2d06c7e3edd16a656e60d2568b6d4aae3e2f9265d84",
+    "tests/new_pixel_hero_static_v1/test_candidate.gd.uid": "1d4980788cffe31fdfa79811a4c1ef454f38d9d090934d35191d24a0a5c8af0b",
+    "tests/new_pixel_hero_static_v1/test_damage_trace.gd": "99d1d6744d0520416aa2f09824dd60790b1516cc931e7d651c9c074d0fcef19d",
+    "tests/new_pixel_hero_static_v1/test_gameplay_trace.gd": "bcf34be2d59ef8ffb5936c4957557dd6f1336b0768d2e7debb852d21e4d26518",
+    "tests/new_pixel_hero_static_v1/test_rejection.gd": "6cbb72de7ddbe2ef2c59244a0ed98ad94ac863be640a570fb7c1212e10117f1c",
+    "tests/new_pixel_hero_static_v1/test_source_pixels.py": "ec6a5de125a7c95fa3e2b9edbc5cbdd8d5429f2eb95a6ed004b273b369df6d3b",
+    "tests/new_pixel_hero_static_v1/test_static_atlas.gd": "af9b525122edb4efdd3fae8ff153f793e2caf76f06eb69cd29d940a44dd864d4",
+    "tests/new_pixel_hero_static_v1/test_static_atlas.gd.uid": "27159b46e9164d6ba401e7840336ca09e2408cbc9a0c5b5b5680e80511b6e6e1"
+  },
+  "art_status": "eight authored static 2D views; no new action animation",
+  "rendered_visual_review": "not run: no X11/Wayland display; headless is not a screenshot"
+}

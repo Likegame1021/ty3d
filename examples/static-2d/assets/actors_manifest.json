@@ -1,0 +1,83 @@
+{
+  "schema": 1,
+  "art_status": "original procedural technical art candidate; disposable trial, not final style target",
+  "cell_size": [
+    64,
+    64
+  ],
+  "feet_anchor": [
+    32,
+    52
+  ],
+  "directions": [
+    "S",
+    "SE",
+    "E",
+    "NE",
+    "N",
+    "NW",
+    "W",
+    "SW"
+  ],
+  "columns": 8,
+  "rows": 8,
+  "texture_filter": "nearest",
+  "actors": {
+    "hero": {
+      "idle": {
+        "file": "hero_idle.png",
+        "fps": 6,
+        "loop": true
+      },
+      "run": {
+        "file": "hero_run.png",
+        "fps": 10,
+        "loop": true
+      },
+      "attack": {
+        "file": "hero_attack.png",
+        "fps": 14,
+        "loop": false
+      },
+      "hurt": {
+        "file": "hero_hurt.png",
+        "fps": 18,
+        "loop": false
+      }
+    },
+    "monster": {
+      "idle": {
+        "file": "monster_idle.png",
+        "fps": 6,
+        "loop": true
+      },
+      "run": {
+        "file": "monster_run.png",
+        "fps": 10,
+        "loop": true
+      },
+      "attack": {
+        "file": "monster_attack.png",
+        "fps": 14,
+        "loop": false
+      },
+      "hurt": {
+        "file": "monster_hurt.png",
+        "fps": 18,
+        "loop": false
+      }
+    },
+    "villager": {
+      "idle": {
+        "file": "villager_idle.png",
+        "fps": 6,
+        "loop": true
+      },
+      "run": {
+        "file": "villager_run.png",
+        "fps": 10,
+        "loop": true
+      }
+    }
+  }
+}

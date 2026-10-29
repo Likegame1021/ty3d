@@ -64,7 +64,7 @@ func run_checks() -> void:
 		await physics_frame
 	Input.action_release("move_up")
 	check(player.position.distance_to(start) > 0.8, "movement traverses scene")
-	var walked: float = player.position.distance_to(start)
+	var direction_only_distance: float = player.position.distance_to(start)
 	game.reset_sample()
 	start = player.position
 	Input.action_press("move_up")
@@ -73,7 +73,7 @@ func run_checks() -> void:
 		await physics_frame
 	Input.action_release("move_up")
 	Input.action_release("run")
-	check(player.position.distance_to(start) > walked * 1.6, "running meaningfully faster than walking")
+	check(absf(player.position.distance_to(start)-direction_only_distance) < 0.08, "Shift leaves direction-only run displacement unchanged")
 	player.position = Vector3(0, 0.05, -3.0)
 	player.velocity = Vector3.ZERO
 	Input.action_press("move_up")

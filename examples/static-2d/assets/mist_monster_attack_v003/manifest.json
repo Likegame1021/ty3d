@@ -1,0 +1,1240 @@
+{
+  "label": "ORIGINAL MIST ATTACK V003 — NON-LOOPING TECHNICAL-ART CANDIDATE",
+  "clip_type": "attack",
+  "source_clip_type": "attack",
+  "source_file": "monster-attack-probe-v003/attack/source.blend",
+  "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+  "loop": false,
+  "time_domain": "normalized_event_pose",
+  "duration_seconds": 1.0,
+  "source_duration_seconds": 1.0,
+  "source_fps": 30,
+  "source_start_frame": 1,
+  "source_end_frame": 31,
+  "pose_sampling": "i/7 includes both neutral endpoints; source peak held from.38 through3/7",
+  "visual_peak_progress": 0.38,
+  "source_peak_progress": 0.38,
+  "source_peak_hold_interval": [
+    0.38,
+    0.42857142857142855
+  ],
+  "hold_terminal_pose": true,
+  "gameplay_timing_authority": false,
+  "gameplay_hit_or_completion_events": false,
+  "root_motion": false,
+  "directions": [
+    "S",
+    "SE",
+    "E",
+    "NE",
+    "N",
+    "NW",
+    "W",
+    "SW"
+  ],
+  "frames": [
+    {
+      "file": "S_attack_00.png",
+      "direction": "S",
+      "phase_index": 0,
+      "phase": 0.0,
+      "pose_progress": 0.0,
+      "source_frame": 1.0,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99128913879395
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "1f5576c72ada3a682087fa630eafd1276b83b7cc777ec83c95a0fba99fa030af"
+    },
+    {
+      "file": "S_attack_01.png",
+      "direction": "S",
+      "phase_index": 1,
+      "phase": 0.14285714285714285,
+      "pose_progress": 0.14285714285714285,
+      "source_frame": 5.285714285714286,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99128913879395
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "59b89fa0b109abbf7d708f40de7c9910724af512fb8582e5b9fe27930e392632"
+    },
+    {
+      "file": "S_attack_02.png",
+      "direction": "S",
+      "phase_index": 2,
+      "phase": 0.2857142857142857,
+      "pose_progress": 0.2857142857142857,
+      "source_frame": 9.571428571428571,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99128913879395
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "9fbb94ddbc05884626e6bcf39d33a6fe998e42fc20000de96aa44915d79715e0"
+    },
+    {
+      "file": "S_attack_03.png",
+      "direction": "S",
+      "phase_index": 3,
+      "phase": 0.42857142857142855,
+      "pose_progress": 0.42857142857142855,
+      "source_frame": 13.857142857142856,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99128913879395
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "55f0f227419d720b540d0939bf3a367543f05ed1d3cb9fda277668ff77f6a0c8"
+    },
+    {
+      "file": "S_attack_04.png",
+      "direction": "S",
+      "phase_index": 4,
+      "phase": 0.5714285714285714,
+      "pose_progress": 0.5714285714285714,
+      "source_frame": 18.142857142857142,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99128913879395
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "86066eec304cdba35946f1d040f43a51e483334a8fccdf01f9fc88b126ad1f64"
+    },
+    {
+      "file": "S_attack_05.png",
+      "direction": "S",
+      "phase_index": 5,
+      "phase": 0.7142857142857143,
+      "pose_progress": 0.7142857142857143,
+      "source_frame": 22.42857142857143,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99128913879395
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "4711bcd2967da614021590fc7d9ec4a2dfeca0b5a6e2f3310d8fef7f53aed7f0"
+    },
+    {
+      "file": "S_attack_06.png",
+      "direction": "S",
+      "phase_index": 6,
+      "phase": 0.8571428571428571,
+      "pose_progress": 0.8571428571428571,
+      "source_frame": 26.71428571428571,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99128913879395
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "20294a1fdfa6f23adb930ce14574f718b81b73fb7082461f315c0a73d2c44f09"
+    },
+    {
+      "file": "S_attack_07.png",
+      "direction": "S",
+      "phase_index": 7,
+      "phase": 1.0,
+      "pose_progress": 1.0,
+      "source_frame": 31.0,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99128913879395
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "cd7ad4bd482c19131ae255ca28e125ae26f076d3e09982c6f8494e1aa625ea1a"
+    },
+    {
+      "file": "SE_attack_00.png",
+      "direction": "SE",
+      "phase_index": 0,
+      "phase": 0.0,
+      "pose_progress": 0.0,
+      "source_frame": 1.0,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "d1edb54e5fea357d177a415906092f07d3d5004c2eae8996dd12fde016edc472"
+    },
+    {
+      "file": "SE_attack_01.png",
+      "direction": "SE",
+      "phase_index": 1,
+      "phase": 0.14285714285714285,
+      "pose_progress": 0.14285714285714285,
+      "source_frame": 5.285714285714286,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "9bff107ff41d05d35cf884fb226f16baabd8b51e03237b5b029ded650b542b21"
+    },
+    {
+      "file": "SE_attack_02.png",
+      "direction": "SE",
+      "phase_index": 2,
+      "phase": 0.2857142857142857,
+      "pose_progress": 0.2857142857142857,
+      "source_frame": 9.571428571428571,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "3c1bcc94fe063ce35ce3fb978770677327130d8698a07aad4bbb119f41eaac0a"
+    },
+    {
+      "file": "SE_attack_03.png",
+      "direction": "SE",
+      "phase_index": 3,
+      "phase": 0.42857142857142855,
+      "pose_progress": 0.42857142857142855,
+      "source_frame": 13.857142857142856,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "1721ef8e2ee677e520a06c3e8abbac7fb9f58ce023bea6b14d3e891b2edd0359"
+    },
+    {
+      "file": "SE_attack_04.png",
+      "direction": "SE",
+      "phase_index": 4,
+      "phase": 0.5714285714285714,
+      "pose_progress": 0.5714285714285714,
+      "source_frame": 18.142857142857142,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "385910d9e3c927e7f894d5c678382cd4603dc672501289621c533d7a15de63e4"
+    },
+    {
+      "file": "SE_attack_05.png",
+      "direction": "SE",
+      "phase_index": 5,
+      "phase": 0.7142857142857143,
+      "pose_progress": 0.7142857142857143,
+      "source_frame": 22.42857142857143,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "6dd2e85e05b5d85cca4e2d48d5ec4271f92d35c1599fc35a5425bc700d7759e1"
+    },
+    {
+      "file": "SE_attack_06.png",
+      "direction": "SE",
+      "phase_index": 6,
+      "phase": 0.8571428571428571,
+      "pose_progress": 0.8571428571428571,
+      "source_frame": 26.71428571428571,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "7e088e675cf9193c4039a3fb3c0f1e6639d61ed28b3b3356464d1d1279e51197"
+    },
+    {
+      "file": "SE_attack_07.png",
+      "direction": "SE",
+      "phase_index": 7,
+      "phase": 1.0,
+      "pose_progress": 1.0,
+      "source_frame": 31.0,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "d453a4779bb01de74fdda6ef6ac8a45979c30841bdc84ab7274657ba6fe74b36"
+    },
+    {
+      "file": "E_attack_00.png",
+      "direction": "E",
+      "phase_index": 0,
+      "phase": 0.0,
+      "pose_progress": 0.0,
+      "source_frame": 1.0,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999885559082,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "9e917c8108f152609b7e435260eac59e7e26b856c8e1273738c81be594c3a156"
+    },
+    {
+      "file": "E_attack_01.png",
+      "direction": "E",
+      "phase_index": 1,
+      "phase": 0.14285714285714285,
+      "pose_progress": 0.14285714285714285,
+      "source_frame": 5.285714285714286,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999885559082,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "2fc249a8dfec940357f30b75bec4adb76c03a7e376f84ba1b383c9696479bdd4"
+    },
+    {
+      "file": "E_attack_02.png",
+      "direction": "E",
+      "phase_index": 2,
+      "phase": 0.2857142857142857,
+      "pose_progress": 0.2857142857142857,
+      "source_frame": 9.571428571428571,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999885559082,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "3ef284ac5545b85b8884381296935ac51513208aa23e2cc3cc6609a87fb5b474"
+    },
+    {
+      "file": "E_attack_03.png",
+      "direction": "E",
+      "phase_index": 3,
+      "phase": 0.42857142857142855,
+      "pose_progress": 0.42857142857142855,
+      "source_frame": 13.857142857142856,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999885559082,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "5232420e79a159945ff4326ee0a8f99ec05c20174df51f40a1b76e123082c952"
+    },
+    {
+      "file": "E_attack_04.png",
+      "direction": "E",
+      "phase_index": 4,
+      "phase": 0.5714285714285714,
+      "pose_progress": 0.5714285714285714,
+      "source_frame": 18.142857142857142,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999885559082,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "d336eb1c035a697ab57d927b7500b3cc9b9e81e8f573d45caf918d6f713fba65"
+    },
+    {
+      "file": "E_attack_05.png",
+      "direction": "E",
+      "phase_index": 5,
+      "phase": 0.7142857142857143,
+      "pose_progress": 0.7142857142857143,
+      "source_frame": 22.42857142857143,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999885559082,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "c403f00da2e268fe7e2860a0898af3c457e9b47da1c738cadd2f4d02ffc7a50a"
+    },
+    {
+      "file": "E_attack_06.png",
+      "direction": "E",
+      "phase_index": 6,
+      "phase": 0.8571428571428571,
+      "pose_progress": 0.8571428571428571,
+      "source_frame": 26.71428571428571,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999885559082,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "c3a4dbf01db98efd5be80e8bb35714e8b2eff9b7070a605fc9068fbb14f6d2d4"
+    },
+    {
+      "file": "E_attack_07.png",
+      "direction": "E",
+      "phase_index": 7,
+      "phase": 1.0,
+      "pose_progress": 1.0,
+      "source_frame": 31.0,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999885559082,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "40098561671993983ac1d4694912bffe054b1a66cedbaa0c6c896ad20e586e1c"
+    },
+    {
+      "file": "NE_attack_00.png",
+      "direction": "NE",
+      "phase_index": 0,
+      "phase": 0.0,
+      "pose_progress": 0.0,
+      "source_frame": 1.0,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "81392f54af86176e087fe1d5aa0bba53fe959af905adac043cbc5b24ca5ecf9d"
+    },
+    {
+      "file": "NE_attack_01.png",
+      "direction": "NE",
+      "phase_index": 1,
+      "phase": 0.14285714285714285,
+      "pose_progress": 0.14285714285714285,
+      "source_frame": 5.285714285714286,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "814ebed56bbe447cb0d1f947e73dde95fa48412e7cff941062926afc38b73dea"
+    },
+    {
+      "file": "NE_attack_02.png",
+      "direction": "NE",
+      "phase_index": 2,
+      "phase": 0.2857142857142857,
+      "pose_progress": 0.2857142857142857,
+      "source_frame": 9.571428571428571,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "6b3da1995d3df074ccd9798929da57fa486bd28064d414c765f8adcbe731e45a"
+    },
+    {
+      "file": "NE_attack_03.png",
+      "direction": "NE",
+      "phase_index": 3,
+      "phase": 0.42857142857142855,
+      "pose_progress": 0.42857142857142855,
+      "source_frame": 13.857142857142856,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "41ca716edf42ec6abbfe95b47182888e77619247625c0aee453289376729a276"
+    },
+    {
+      "file": "NE_attack_04.png",
+      "direction": "NE",
+      "phase_index": 4,
+      "phase": 0.5714285714285714,
+      "pose_progress": 0.5714285714285714,
+      "source_frame": 18.142857142857142,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "b9652295b3fc94312be44bfee06997de7fd440907e7a1c809ad6840f7a63743b"
+    },
+    {
+      "file": "NE_attack_05.png",
+      "direction": "NE",
+      "phase_index": 5,
+      "phase": 0.7142857142857143,
+      "pose_progress": 0.7142857142857143,
+      "source_frame": 22.42857142857143,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "a197b3bbe2a7ee931471d624f7441a76f4d4abfbf263af119fccc10c90dd60d1"
+    },
+    {
+      "file": "NE_attack_06.png",
+      "direction": "NE",
+      "phase_index": 6,
+      "phase": 0.8571428571428571,
+      "pose_progress": 0.8571428571428571,
+      "source_frame": 26.71428571428571,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "e8554a27d125fe283cbc6324c0a5eb81be9ed603d82bf0f96e26fd78e52da11e"
+    },
+    {
+      "file": "NE_attack_07.png",
+      "direction": "NE",
+      "phase_index": 7,
+      "phase": 1.0,
+      "pose_progress": 1.0,
+      "source_frame": 31.0,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "bcde5fd05fc1c31b2a2c0b489f9ac2d06c0232af6796b57bf8e78f696ed33de3"
+    },
+    {
+      "file": "N_attack_00.png",
+      "direction": "N",
+      "phase_index": 0,
+      "phase": 0.0,
+      "pose_progress": 0.0,
+      "source_frame": 1.0,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.00005722045898,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "d941f7a6221fa37e59195c4bbac8525c7cc0c86b4382e85d6093047385a3d77a"
+    },
+    {
+      "file": "N_attack_01.png",
+      "direction": "N",
+      "phase_index": 1,
+      "phase": 0.14285714285714285,
+      "pose_progress": 0.14285714285714285,
+      "source_frame": 5.285714285714286,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.00005722045898,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "c9efc13b79d932da8318b27c2bfd0e3bf2c632808b333464b96ec4a486330e7a"
+    },
+    {
+      "file": "N_attack_02.png",
+      "direction": "N",
+      "phase_index": 2,
+      "phase": 0.2857142857142857,
+      "pose_progress": 0.2857142857142857,
+      "source_frame": 9.571428571428571,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.00005722045898,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "05a83e15e98f1b4c7d1926695b8d564ac7348406540168c11db4e0e187a54d39"
+    },
+    {
+      "file": "N_attack_03.png",
+      "direction": "N",
+      "phase_index": 3,
+      "phase": 0.42857142857142855,
+      "pose_progress": 0.42857142857142855,
+      "source_frame": 13.857142857142856,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.00005722045898,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "fcd51a945b34455f6a454c1e19b4d9b0c589fc02e5a6703c85be802ec78415dc"
+    },
+    {
+      "file": "N_attack_04.png",
+      "direction": "N",
+      "phase_index": 4,
+      "phase": 0.5714285714285714,
+      "pose_progress": 0.5714285714285714,
+      "source_frame": 18.142857142857142,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.00005722045898,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "e950afbbe32b876db16212f57659e986ddedd33b580ad1471ee86aa705f2d5a8"
+    },
+    {
+      "file": "N_attack_05.png",
+      "direction": "N",
+      "phase_index": 5,
+      "phase": 0.7142857142857143,
+      "pose_progress": 0.7142857142857143,
+      "source_frame": 22.42857142857143,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.00005722045898,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "db4efe42c7c3601c3f96168a5b9732e4e14f3163305a8f57d1a28e82b59e8128"
+    },
+    {
+      "file": "N_attack_06.png",
+      "direction": "N",
+      "phase_index": 6,
+      "phase": 0.8571428571428571,
+      "pose_progress": 0.8571428571428571,
+      "source_frame": 26.71428571428571,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.00005722045898,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "0c9503c0a5b07182638694868b2da9e3a9628f826ac012c99850c6cc8c25a417"
+    },
+    {
+      "file": "N_attack_07.png",
+      "direction": "N",
+      "phase_index": 7,
+      "phase": 1.0,
+      "pose_progress": 1.0,
+      "source_frame": 31.0,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.00005722045898,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "2688dccff8a45ed7912ffc57ffa6d80b9e42c7e1b987c932812b54ff63e96f8b"
+    },
+    {
+      "file": "NW_attack_00.png",
+      "direction": "NW",
+      "phase_index": 0,
+      "phase": 0.0,
+      "pose_progress": 0.0,
+      "source_frame": 1.0,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999942779541,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "00bf10ff25d1941acd7a6882010dc854c4241675fd00c838217d1b91a968e0f5"
+    },
+    {
+      "file": "NW_attack_01.png",
+      "direction": "NW",
+      "phase_index": 1,
+      "phase": 0.14285714285714285,
+      "pose_progress": 0.14285714285714285,
+      "source_frame": 5.285714285714286,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999942779541,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "fd4adc806ffcd0e759e7894189b8000c13155d083c0b6404bdd3791b417ea64f"
+    },
+    {
+      "file": "NW_attack_02.png",
+      "direction": "NW",
+      "phase_index": 2,
+      "phase": 0.2857142857142857,
+      "pose_progress": 0.2857142857142857,
+      "source_frame": 9.571428571428571,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999942779541,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "42c6bbbc5eb2838c5b8c686243544ee040fe8180aec79ab3cce48f0ac44cbe0f"
+    },
+    {
+      "file": "NW_attack_03.png",
+      "direction": "NW",
+      "phase_index": 3,
+      "phase": 0.42857142857142855,
+      "pose_progress": 0.42857142857142855,
+      "source_frame": 13.857142857142856,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999942779541,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "686779d366a7574292edb4c16b58093c8ce70b9976da86e99891887826a8e132"
+    },
+    {
+      "file": "NW_attack_04.png",
+      "direction": "NW",
+      "phase_index": 4,
+      "phase": 0.5714285714285714,
+      "pose_progress": 0.5714285714285714,
+      "source_frame": 18.142857142857142,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999942779541,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "ece50301f5bb7dd9e345ad129fcd72d5c0ea2147e355766d544e376defc2dd97"
+    },
+    {
+      "file": "NW_attack_05.png",
+      "direction": "NW",
+      "phase_index": 5,
+      "phase": 0.7142857142857143,
+      "pose_progress": 0.7142857142857143,
+      "source_frame": 22.42857142857143,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999942779541,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "7fee3332f79bdb274992c9c2f2d7e4be2e6fca64ae051f2a9705904261800757"
+    },
+    {
+      "file": "NW_attack_06.png",
+      "direction": "NW",
+      "phase_index": 6,
+      "phase": 0.8571428571428571,
+      "pose_progress": 0.8571428571428571,
+      "source_frame": 26.71428571428571,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999942779541,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "129c3e0a19dcce9ae50a0ca6aac6b922a495f38cce92171cc3b8895856c1a911"
+    },
+    {
+      "file": "NW_attack_07.png",
+      "direction": "NW",
+      "phase_index": 7,
+      "phase": 1.0,
+      "pose_progress": 1.0,
+      "source_frame": 31.0,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999942779541,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "c74a0479ff51bfbf384135aaf6a22a967299906ab24e9eb73583276daf2cf7a1"
+    },
+    {
+      "file": "W_attack_00.png",
+      "direction": "W",
+      "phase_index": 0,
+      "phase": 0.0,
+      "pose_progress": 0.0,
+      "source_frame": 1.0,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0000114440918,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "18cd359eccefe378c2acc57ee1402baf57e144fccf6a4602bd5463fe2aef2be2"
+    },
+    {
+      "file": "W_attack_01.png",
+      "direction": "W",
+      "phase_index": 1,
+      "phase": 0.14285714285714285,
+      "pose_progress": 0.14285714285714285,
+      "source_frame": 5.285714285714286,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0000114440918,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "da560e2673241ef962b499a2891fc31eca008966ebeff36b5b9af590aec79527"
+    },
+    {
+      "file": "W_attack_02.png",
+      "direction": "W",
+      "phase_index": 2,
+      "phase": 0.2857142857142857,
+      "pose_progress": 0.2857142857142857,
+      "source_frame": 9.571428571428571,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0000114440918,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "2e36d5dbb87faa3cb2f8310c28c606b5db3d79e704d49562c6470a7f27a69553"
+    },
+    {
+      "file": "W_attack_03.png",
+      "direction": "W",
+      "phase_index": 3,
+      "phase": 0.42857142857142855,
+      "pose_progress": 0.42857142857142855,
+      "source_frame": 13.857142857142856,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0000114440918,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "ae88deea0119484de79429b4013dd839374c0144497114f2a638de455cac050e"
+    },
+    {
+      "file": "W_attack_04.png",
+      "direction": "W",
+      "phase_index": 4,
+      "phase": 0.5714285714285714,
+      "pose_progress": 0.5714285714285714,
+      "source_frame": 18.142857142857142,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0000114440918,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "b85b6ca3771ff295a8a0ba78183f8612b8803d939effd40c007b2761a0156118"
+    },
+    {
+      "file": "W_attack_05.png",
+      "direction": "W",
+      "phase_index": 5,
+      "phase": 0.7142857142857143,
+      "pose_progress": 0.7142857142857143,
+      "source_frame": 22.42857142857143,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0000114440918,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "a38339e89a845224a307dba59cbf2e30e7719cc66f0ef0dcd16f53e849b57f0f"
+    },
+    {
+      "file": "W_attack_06.png",
+      "direction": "W",
+      "phase_index": 6,
+      "phase": 0.8571428571428571,
+      "pose_progress": 0.8571428571428571,
+      "source_frame": 26.71428571428571,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0000114440918,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "14503f086cc88b684d17d140612ccb314145a7da2a81feb6095ede6c418ce776"
+    },
+    {
+      "file": "W_attack_07.png",
+      "direction": "W",
+      "phase_index": 7,
+      "phase": 1.0,
+      "pose_progress": 1.0,
+      "source_frame": 31.0,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        96.0000114440918,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "db51b9aaf86f9cec64f85d116b70240c42fe06b627d3ebdddd9aee0126fab577"
+    },
+    {
+      "file": "SW_attack_00.png",
+      "direction": "SW",
+      "phase_index": 0,
+      "phase": 0.0,
+      "pose_progress": 0.0,
+      "source_frame": 1.0,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999942779541,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "c5a5af20fb5b64becfaaa3d0fb4e09c75235e6070593113791b48961e7b96ef2"
+    },
+    {
+      "file": "SW_attack_01.png",
+      "direction": "SW",
+      "phase_index": 1,
+      "phase": 0.14285714285714285,
+      "pose_progress": 0.14285714285714285,
+      "source_frame": 5.285714285714286,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999942779541,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "d8f9c0a908cde995271c4ee4e827b57b4b3edcd7771b9d716cae220fa081e839"
+    },
+    {
+      "file": "SW_attack_02.png",
+      "direction": "SW",
+      "phase_index": 2,
+      "phase": 0.2857142857142857,
+      "pose_progress": 0.2857142857142857,
+      "source_frame": 9.571428571428571,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999942779541,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "b9e5e94d11863ff0f4c1b621628f2f591c53aacab10c535f4bf94863ef9fea66"
+    },
+    {
+      "file": "SW_attack_03.png",
+      "direction": "SW",
+      "phase_index": 3,
+      "phase": 0.42857142857142855,
+      "pose_progress": 0.42857142857142855,
+      "source_frame": 13.857142857142856,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999942779541,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "13889847f8ebbed58b51551f2701275bcc8ab1ead1d35328a9687a45762dfb76"
+    },
+    {
+      "file": "SW_attack_04.png",
+      "direction": "SW",
+      "phase_index": 4,
+      "phase": 0.5714285714285714,
+      "pose_progress": 0.5714285714285714,
+      "source_frame": 18.142857142857142,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999942779541,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "9989c3e1e997c1bfe0c827d922c2adfbde8fb46c880dcd2727d91a7be4590819"
+    },
+    {
+      "file": "SW_attack_05.png",
+      "direction": "SW",
+      "phase_index": 5,
+      "phase": 0.7142857142857143,
+      "pose_progress": 0.7142857142857143,
+      "source_frame": 22.42857142857143,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999942779541,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "524cca98741c7d56f80bab22a95eafa6e2e9ab1417989b7bc56de37f2fd17fde"
+    },
+    {
+      "file": "SW_attack_06.png",
+      "direction": "SW",
+      "phase_index": 6,
+      "phase": 0.8571428571428571,
+      "pose_progress": 0.8571428571428571,
+      "source_frame": 26.71428571428571,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999942779541,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "78d008794a7493ca910b48dbd9c3601a8053c8152d446b17aa7b62e3bcf62c0e"
+    },
+    {
+      "file": "SW_attack_07.png",
+      "direction": "SW",
+      "phase_index": 7,
+      "phase": 1.0,
+      "pose_progress": 1.0,
+      "source_frame": 31.0,
+      "canvas": [
+        192,
+        192
+      ],
+      "ground_anchor": [
+        95.9999942779541,
+        160.99133777618408
+      ],
+      "source_sha256": "71d1828e79777b081a07fd17c3305001af0f58911b9ba198029fac67da394bcb",
+      "sha256": "afd54a5370005ec84800656e432261678c0645995c1395aaeac5defc80319944"
+    }
+  ],
+  "canvas": [
+    192,
+    192
+  ],
+  "foot_anchors": {
+    "S": [
+      96.0,
+      160.99128913879395
+    ],
+    "SE": [
+      96.0,
+      160.99133777618408
+    ],
+    "E": [
+      95.9999885559082,
+      160.99133777618408
+    ],
+    "NE": [
+      96.0,
+      160.99133777618408
+    ],
+    "N": [
+      96.00005722045898,
+      160.99133777618408
+    ],
+    "NW": [
+      95.9999942779541,
+      160.99133777618408
+    ],
+    "W": [
+      96.0000114440918,
+      160.99133777618408
+    ],
+    "SW": [
+      95.9999942779541,
+      160.99133777618408
+    ]
+  },
+  "pixel_size": 0.008593749999999999,
+  "alpha_scissor_threshold": 0.4,
+  "final_art_approved": false,
+  "available_states": [
+    "attack"
+  ],
+  "limitations": [
+    "Visual source only. Runtime caller owns authoritative elapsed/duration, hit windows, AI, damage, knockback and world movement.",
+    "Source1-second duration is an authoring normalization, not a gameplay event timer.",
+    "Start/end match original idle00, not an arbitrary current idle breathing phase. Cross-state transition handling remains an integration concern.",
+    "Existing left curl/mist and eye-socket face overlaps are disclosed in independent source QA; no new visible failure was observed in approved key poses.",
+    "Only technical art approved for isolated display evaluation. Full8-direction bake and runtime integration require separate QA."
+  ]
+}
